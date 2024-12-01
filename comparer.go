@@ -10,7 +10,7 @@ import (
 	"slices"
 )
 
-type Response struct {
+type UserCompletedLeagueTasks struct {
 	LeagueTasks []int `json:"league_tasks"`
 }
 
@@ -24,7 +24,44 @@ type Task struct {
 }
 
 func main() {
-	response1, err := http.Get("https://sync.runescape.wiki/runelite/player/ironblodh/RAGING_ECHOES_LEAGUE")
+	username1 := "ironblodh"
+	username2 := "thummor"
+
+	user1CompletedTasksList := getUserCompletedTaskList(username1)
+	user2CompletedTasksList := getUserCompletedTaskList(username2)
+
+	var uncompleteTasks1 []int
+	for i := 0; i < len(user2CompletedTasksList.LeagueTasks); i++ {
+		task := user2CompletedTasksList.LeagueTasks[i]
+		if !slices.Contains(user1CompletedTasksList.LeagueTasks, task) {
+			uncompleteTasks1 = append(uncompleteTasks1, task)
+		}
+	}
+
+	var uncompleteTasks2 []int
+	for i := 0; i < len(user1CompletedTasksList.LeagueTasks); i++ {
+		task := user1CompletedTasksList.LeagueTasks[i]
+		if !slices.Contains(user2CompletedTasksList.LeagueTasks, task) {
+			uncompleteTasks2 = append(uncompleteTasks2, task)
+		}
+	}
+
+	tasks := initTasksList()
+
+	tasksMap := make(map[int]string)
+
+	for i := 0; i < len(tasks.Tasks); i++ {
+		tasksMap[tasks.Tasks[i].TaskId] = tasks.Tasks[i].TaskName
+	}
+
+	printUsersMissingCompletedTasks(username1, uncompleteTasks1, tasksMap)
+	printUsersMissingCompletedTasks(username2, uncompleteTasks2, tasksMap)
+}
+
+func getUserCompletedTaskList(username string) UserCompletedLeagueTasks {
+	url := fmt.Sprintf("https://sync.runescape.wiki/runelite/player/%s/RAGING_ECHOES_LEAGUE", username)
+	fmt.Println(url)
+	response1, err := http.Get(url)
 
 	if err != nil {
 		fmt.Print(err.Error())
@@ -36,39 +73,26 @@ func main() {
 		log.Fatal(err)
 	}
 
-	var responseObject1 Response
+	var responseObject1 UserCompletedLeagueTasks
 	json.Unmarshal(responseData1, &responseObject1)
 
-	response2, err := http.Get("https://sync.runescape.wiki/runelite/player/thummor/RAGING_ECHOES_LEAGUE")
-	if err != nil {
-		fmt.Print(err.Error())
-		os.Exit(1)
+	return responseObject1
+}
+
+func printUsersMissingCompletedTasks(username string, uncompleteTasks []int, tasksMap map[int]string) {
+	message := fmt.Sprintf("%s's incomplete tasks:", username)
+	fmt.Println(message)
+
+	for i := 0; i < len(uncompleteTasks); i++ {
+		taskId := uncompleteTasks[i]
+
+		fmt.Println(tasksMap[taskId])
 	}
 
-	responseData2, err := io.ReadAll(response2.Body)
-	if err != nil {
-		log.Fatal(err)
-	}
+	fmt.Println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+}
 
-	var responseObject2 Response
-	json.Unmarshal(responseData2, &responseObject2)
-
-	var uncompleteTasks1 []int
-	for i := 0; i < len(responseObject2.LeagueTasks); i++ {
-		task := responseObject2.LeagueTasks[i]
-		if !slices.Contains(responseObject1.LeagueTasks, task) {
-			uncompleteTasks1 = append(uncompleteTasks1, task)
-		}
-	}
-
-	var uncompleteTasks2 []int
-	for i := 0; i < len(responseObject1.LeagueTasks); i++ {
-		task := responseObject1.LeagueTasks[i]
-		if !slices.Contains(responseObject2.LeagueTasks, task) {
-			uncompleteTasks2 = append(uncompleteTasks2, task)
-		}
-	}
-
+func initTasksList() Tasks {
 	jsonFile, err := os.Open("tasks.json")
 	if err != nil {
 		fmt.Println(err)
@@ -82,25 +106,6 @@ func main() {
 
 	var tasks Tasks
 	json.Unmarshal(byteValue, &tasks)
-	tasksMap := make(map[int]string)
 
-	for i := 0; i < len(tasks.Tasks); i++ {
-		tasksMap[tasks.Tasks[i].TaskId] = tasks.Tasks[i].TaskName
-	}
-
-	fmt.Println("Ironblodh's incomplete tasks:")
-	for i := 0; i < len(uncompleteTasks1); i++ {
-		taskId := uncompleteTasks1[i]
-
-		fmt.Println(tasksMap[taskId])
-	}
-
-	fmt.Println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-
-	fmt.Println("Thummors's incomplete tasks:")
-	for i := 0; i < len(uncompleteTasks2); i++ {
-		taskId := uncompleteTasks2[i]
-
-		fmt.Println(tasksMap[taskId])
-	}
+	return tasks
 }
