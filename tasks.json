@@ -1,0 +1,6360 @@
+{
+    "tasks": [
+        {
+            "id": 193,
+            "name": "Achieve Your First Level 10"
+        },
+        {
+            "id": 194,
+            "name": "Achieve Your First Level 20"
+        },
+        {
+            "id": 192,
+            "name": "Achieve Your First Level 5"
+        },
+        {
+            "id": 191,
+            "name": "Achieve Your First Level Up"
+        },
+        {
+            "id": 297,
+            "name": "Burn Some Food"
+        },
+        {
+            "id": 371,
+            "name": "Burn Some Normal Logs"
+        },
+        {
+            "id": 372,
+            "name": "Burn Some Oak Logs"
+        },
+        {
+            "id": 97,
+            "name": "Bury Some Bones"
+        },
+        {
+            "id": 1151,
+            "name": "Buy Something From Trader Crewmembers"
+        },
+        {
+            "id": 431,
+            "name": "Cast Home Teleport"
+        },
+        {
+            "id": 379,
+            "name": "Catch a Baby Impling"
+        },
+        {
+            "id": 341,
+            "name": "Catch a Herring"
+        },
+        {
+            "id": 340,
+            "name": "Catch a Shrimp"
+        },
+        {
+            "id": 342,
+            "name": "Catch an Anchovy"
+        },
+        {
+            "id": 319,
+            "name": "Check Your Slayer Task"
+        },
+        {
+            "id": 289,
+            "name": "Chop Some Logs"
+        },
+        {
+            "id": 290,
+            "name": "Chop Some Logs With a Steel Axe"
+        },
+        {
+            "id": 1785,
+            "name": "Clean 15 Grimy Tarromin"
+        },
+        {
+            "id": 1784,
+            "name": "Clean 25 Grimy Guam Leafs"
+        },
+        {
+            "id": 391,
+            "name": "Clean a Grimy Guam"
+        },
+        {
+            "id": 190,
+            "name": "Complete the Leagues Tutorial"
+        },
+        {
+            "id": 296,
+            "name": "Cook Shrimp"
+        },
+        {
+            "id": 333,
+            "name": "Craft a Leather Body"
+        },
+        {
+            "id": 1367,
+            "name": "Create a Compost Potion"
+        },
+        {
+            "id": 1366,
+            "name": "Create an Antipoison"
+        },
+        {
+            "id": 1287,
+            "name": "Cry in a wheat field"
+        },
+        {
+            "id": 332,
+            "name": "Cut a Sapphire"
+        },
+        {
+            "id": 1288,
+            "name": "Dance in a graveyard"
+        },
+        {
+            "id": 63,
+            "name": "Defeat a Goblin"
+        },
+        {
+            "id": 64,
+            "name": "Defeat a Guard"
+        },
+        {
+            "id": 61,
+            "name": "Defeat a Moss Giant"
+        },
+        {
+            "id": 393,
+            "name": "Drink a Strength Potion"
+        },
+        {
+            "id": 1269,
+            "name": "Dye a cape orange"
+        },
+        {
+            "id": 1800,
+            "name": "Eat a Banana"
+        },
+        {
+            "id": 1268,
+            "name": "Enter Puro Puro from Gielinor"
+        },
+        {
+            "id": 649,
+            "name": "Enter your Player Owned House"
+        },
+        {
+            "id": 321,
+            "name": "Equip a Spiny Helmet"
+        },
+        {
+            "id": 421,
+            "name": "Equip a Studded Body and Chaps"
+        },
+        {
+            "id": 430,
+            "name": "Equip an Elemental Staff"
+        },
+        {
+            "id": 311,
+            "name": "Fletch an Oak Shortbow"
+        },
+        {
+            "id": 310,
+            "name": "Fletch Some Arrow Shafts"
+        },
+        {
+            "id": 1276,
+            "name": "Kill a Necromancer"
+        },
+        {
+            "id": 373,
+            "name": "Light a Torch"
+        },
+        {
+            "id": 366,
+            "name": "Locate a Runecrafting Altar With a Talisman"
+        },
+        {
+            "id": 392,
+            "name": "Make an Attack Potion"
+        },
+        {
+            "id": 1371,
+            "name": "Mine 5 Tin Ore"
+        },
+        {
+            "id": 303,
+            "name": "Mine some Copper Ore"
+        },
+        {
+            "id": 1801,
+            "name": "Mine some essence"
+        },
+        {
+            "id": 304,
+            "name": "Mine some Ore With a Steel Pickaxe"
+        },
+        {
+            "id": 291,
+            "name": "Obtain a Bird Nest"
+        },
+        {
+            "id": 1070,
+            "name": "Obtain a Casket from Fishing"
+        },
+        {
+            "id": 189,
+            "name": "Open the Leagues Menu"
+        },
+        {
+            "id": 410,
+            "name": "Perform a Special Attack"
+        },
+        {
+            "id": 273,
+            "name": "Pickpocket a Citizen"
+        },
+        {
+            "id": 281,
+            "name": "Plant Seeds in an Allotment Patch"
+        },
+        {
+            "id": 282,
+            "name": "Protect Your Crops"
+        },
+        {
+            "id": 356,
+            "name": "Purchase a Player Owned House"
+        },
+        {
+            "id": 280,
+            "name": "Rake a Farming Patch"
+        },
+        {
+            "id": 401,
+            "name": "Reach Combat Level 10"
+        },
+        {
+            "id": 402,
+            "name": "Reach Combat Level 25"
+        },
+        {
+            "id": 94,
+            "name": "Restore 5 Prayer Points at an Altar"
+        },
+        {
+            "id": 1783,
+            "name": "Scatter some Ashes"
+        },
+        {
+            "id": 347,
+            "name": "Smelt a Bronze Bar"
+        },
+        {
+            "id": 348,
+            "name": "Smelt an Iron Bar"
+        },
+        {
+            "id": 1373,
+            "name": "Smith a Bronze full helm"
+        },
+        {
+            "id": 1374,
+            "name": "Smith a Bronze plateskirt"
+        },
+        {
+            "id": 380,
+            "name": "Snare a Bird"
+        },
+        {
+            "id": 331,
+            "name": "Spin a Ball of Wool"
+        },
+        {
+            "id": 275,
+            "name": "Steal a Chocolate Slice"
+        },
+        {
+            "id": 1071,
+            "name": "Steal Some Silk"
+        },
+        {
+            "id": 1350,
+            "name": "Successfully Cut a Red Topaz"
+        },
+        {
+            "id": 95,
+            "name": "Superhuman Strength and Improved Reflexes"
+        },
+        {
+            "id": 358,
+            "name": "Turn any Logs Into a Plank"
+        },
+        {
+            "id": 1540,
+            "name": "Use a Hat Stand"
+        },
+        {
+            "id": 409,
+            "name": "Visit Death's Domain"
+        },
+        {
+            "id": 364,
+            "name": "Visit the Rune Essence Mine"
+        },
+        {
+            "id": 1549,
+            "name": "Balance 5 barrels on your head"
+        },
+        {
+            "id": 774,
+            "name": "Craft an Air Rune"
+        },
+        {
+            "id": 786,
+            "name": "Defeat a Troll in Asgarnia"
+        },
+        {
+            "id": 1324,
+            "name": "Eat a magic cabbage"
+        },
+        {
+            "id": 823,
+            "name": "Enter the Taverley Dungeon"
+        },
+        {
+            "id": 1336,
+            "name": "Give Thurgo a redberry pie"
+        },
+        {
+            "id": 1312,
+            "name": "Kill a port sarim prisoner"
+        },
+        {
+            "id": 1525,
+            "name": "Use the Falador Party room"
+        },
+        {
+            "id": 1084,
+            "name": "1 Tempoross Kill"
+        },
+        {
+            "id": 1548,
+            "name": "Catch a Salmon"
+        },
+        {
+            "id": 852,
+            "name": "Complete the Al Kharid Agility Course"
+        },
+        {
+            "id": 854,
+            "name": "Craft a Fire Rune"
+        },
+        {
+            "id": 1568,
+            "name": "Drink some of Ali's tea"
+        },
+        {
+            "id": 895,
+            "name": "Enter the Kalphite Lair"
+        },
+        {
+            "id": 1569,
+            "name": "Kill a Billy Goat"
+        },
+        {
+            "id": 842,
+            "name": "Pick a Winter Sq'irk"
+        },
+        {
+            "id": 831,
+            "name": "Room 1 of Pyramid Plunder"
+        },
+        {
+            "id": 832,
+            "name": "Room 2 of Pyramid Plunder"
+        },
+        {
+            "id": 833,
+            "name": "Room 3 of Pyramid Plunder"
+        },
+        {
+            "id": 1545,
+            "name": "Set a mummy ablaze"
+        },
+        {
+            "id": 1045,
+            "name": "Take a Carpet Ride from Pollnivneach to Sophanem"
+        },
+        {
+            "id": 846,
+            "name": "Turn in a Winter Sq'irkjuice to Osman"
+        },
+        {
+            "id": 889,
+            "name": "Use the Bank in Nardah"
+        },
+        {
+            "id": 1832,
+            "name": "Catch a Cerulean Twitch"
+        },
+        {
+            "id": 1831,
+            "name": "Catch a Polar Kebbit"
+        },
+        {
+            "id": 1292,
+            "name": "Chop down an arctic pine tree"
+        },
+        {
+            "id": 1581,
+            "name": "Cut the Swaying Tree"
+        },
+        {
+            "id": 588,
+            "name": "Defeat a Cockatrice in the Fremennik Province"
+        },
+        {
+            "id": 592,
+            "name": "Defeat a Pyrefiend in the Fremennik Province"
+        },
+        {
+            "id": 583,
+            "name": "Defeat a Rock Crab in the Fremennik Province"
+        },
+        {
+            "id": 1837,
+            "name": "Kill a Rooster"
+        },
+        {
+            "id": 1290,
+            "name": "Kill a Yak"
+        },
+        {
+            "id": 1842,
+            "name": "Pick up Snapegrass"
+        },
+        {
+            "id": 565,
+            "name": "Switch to the Lunar Spellbook"
+        },
+        {
+            "id": 632,
+            "name": "Use the Bank on Jatizso"
+        },
+        {
+            "id": 636,
+            "name": "Use the Bank on Lunar Isle"
+        },
+        {
+            "id": 634,
+            "name": "Use the Bank on Neitiznot"
+        },
+        {
+            "id": 747,
+            "name": "Brimstail Rune Essence Mine teleport"
+        },
+        {
+            "id": 690,
+            "name": "Catch a Crimson Swift in the Feldip Hills"
+        },
+        {
+            "id": 1369,
+            "name": "Catch a wild kebbit"
+        },
+        {
+            "id": 686,
+            "name": "Complete the Gnome Stronghold Agility Course"
+        },
+        {
+            "id": 721,
+            "name": "Defeat a Bloodveld in Kandarin"
+        },
+        {
+            "id": 724,
+            "name": "Defeat a Fire Giant in Kandarin"
+        },
+        {
+            "id": 1152,
+            "name": "Get Stung By Bees"
+        },
+        {
+            "id": 1271,
+            "name": "Kill Salarin the Twisted"
+        },
+        {
+            "id": 1544,
+            "name": "Obtain Jack's legendary rod"
+        },
+        {
+            "id": 1150,
+            "name": "Pick Wheat in Catherby"
+        },
+        {
+            "id": 1542,
+            "name": "Receive a gift from Arnold"
+        },
+        {
+            "id": 737,
+            "name": "Visit the Tree Gnome Stronghold"
+        },
+        {
+            "id": 734,
+            "name": "Visit the Tree Gnome Village"
+        },
+        {
+            "id": 644,
+            "name": "Catch a Karambwanji"
+        },
+        {
+            "id": 675,
+            "name": "Fill a Crate With Bananas"
+        },
+        {
+            "id": 1798,
+            "name": "Kill a Snake in Karamja"
+        },
+        {
+            "id": 679,
+            "name": "Pick a Pineapple on Karamja"
+        },
+        {
+            "id": 638,
+            "name": "Receive an Agility Arena Ticket"
+        },
+        {
+            "id": 103,
+            "name": "1 Sarachnis Kill"
+        },
+        {
+            "id": 67,
+            "name": "1 Wintertodt Kill"
+        },
+        {
+            "id": 172,
+            "name": "Bank at Land's End"
+        },
+        {
+            "id": 173,
+            "name": "Bank at Mount Quidamortem"
+        },
+        {
+            "id": 1289,
+            "name": "Brutally murder Conrad King"
+        },
+        {
+            "id": 71,
+            "name": "Complete 1 Farming Contract"
+        },
+        {
+            "id": 1277,
+            "name": "Drink a LizardKicker"
+        },
+        {
+            "id": 1606,
+            "name": "Eat a Field Ration"
+        },
+        {
+            "id": 1286,
+            "name": "Equip a Protest Banner"
+        },
+        {
+            "id": 1594,
+            "name": "Kill a Barbarian in Kourend"
+        },
+        {
+            "id": 139,
+            "name": "Open 1 Grubby Chest"
+        },
+        {
+            "id": 1638,
+            "name": "Repair a Fishing Crane"
+        },
+        {
+            "id": 174,
+            "name": "Travel to Molch Island"
+        },
+        {
+            "id": 145,
+            "name": "Turn in 1 Library Book"
+        },
+        {
+            "id": 1600,
+            "name": "Use the Mine cart transportation System"
+        },
+        {
+            "id": 1557,
+            "name": "Ask for a Quest from Bob"
+        },
+        {
+            "id": 1315,
+            "name": "Chop a log from a potato tree"
+        },
+        {
+            "id": 459,
+            "name": "Complete the Draynor Agility Course"
+        },
+        {
+            "id": 512,
+            "name": "Complete the Natural History Quiz"
+        },
+        {
+            "id": 1522,
+            "name": "Complete the Varrock Agility Course"
+        },
+        {
+            "id": 466,
+            "name": "Defeat the Lesser Demon in the Wizards' Tower"
+        },
+        {
+            "id": 1780,
+            "name": "Drink a beer in the Longhall"
+        },
+        {
+            "id": 1562,
+            "name": "Eat an Onion"
+        },
+        {
+            "id": 494,
+            "name": "Enter Zanaris"
+        },
+        {
+            "id": 1560,
+            "name": "Equip an Iron dagger"
+        },
+        {
+            "id": 1313,
+            "name": "Get a chair to follow you"
+        },
+        {
+            "id": 1776,
+            "name": "Get a haircut"
+        },
+        {
+            "id": 1314,
+            "name": "Get your revenge against a Dark Wizard"
+        },
+        {
+            "id": 1321,
+            "name": "Have Elsie tell you a story"
+        },
+        {
+            "id": 1311,
+            "name": "Have Ned make you some rope"
+        },
+        {
+            "id": 1308,
+            "name": "Insult Aggie the Witch"
+        },
+        {
+            "id": 1781,
+            "name": "Kill a Barbarian in the Barbarian Village"
+        },
+        {
+            "id": 1559,
+            "name": "Kill a Chicken with your fists"
+        },
+        {
+            "id": 1553,
+            "name": "Kill a Cow in one hit"
+        },
+        {
+            "id": 1563,
+            "name": "Kill a Duck with a fire spell"
+        },
+        {
+            "id": 1565,
+            "name": "Kill a Frog"
+        },
+        {
+            "id": 1566,
+            "name": "Kill a Goblin holding a spear"
+        },
+        {
+            "id": 1555,
+            "name": "Kill a Mugger"
+        },
+        {
+            "id": 1558,
+            "name": "Kill a Ram"
+        },
+        {
+            "id": 1554,
+            "name": "Kill a Rat"
+        },
+        {
+            "id": 1552,
+            "name": "Kill a Spider by kicking it"
+        },
+        {
+            "id": 1564,
+            "name": "Kill an Imp with an earth spell"
+        },
+        {
+            "id": 1306,
+            "name": "Milk a cow"
+        },
+        {
+            "id": 1327,
+            "name": "Pan for an Uncut Jade"
+        },
+        {
+            "id": 498,
+            "name": "Pet a Stray Dog in Varrock"
+        },
+        {
+            "id": 1143,
+            "name": "Pet the Museum Camp dog"
+        },
+        {
+            "id": 1771,
+            "name": "Pick a Cabbage in Varrock"
+        },
+        {
+            "id": 1561,
+            "name": "Pray at an Altar in Lumbridge"
+        },
+        {
+            "id": 1332,
+            "name": "Slash a web in varrock sewers"
+        },
+        {
+            "id": 457,
+            "name": "Steal From the Varrock Tea Stall"
+        },
+        {
+            "id": 1775,
+            "name": "Stroke your cat"
+        },
+        {
+            "id": 1799,
+            "name": "Take a Canoe to Champions Guild"
+        },
+        {
+            "id": 1556,
+            "name": "Talk to Hans"
+        },
+        {
+            "id": 496,
+            "name": "Travel to Fossil Island"
+        },
+        {
+            "id": 1547,
+            "name": "Upset the homeless"
+        },
+        {
+            "id": 508,
+            "name": "Use a Fairy Ring"
+        },
+        {
+            "id": 1774,
+            "name": "Use the Northern Staircase in Lumbridge"
+        },
+        {
+            "id": 956,
+            "name": "Complete an Easy Temple Trek"
+        },
+        {
+            "id": 913,
+            "name": "Craft a Snelm"
+        },
+        {
+            "id": 920,
+            "name": "Defeat a Werewolf in Morytania"
+        },
+        {
+            "id": 1130,
+            "name": "Open a Bronze Chest"
+        },
+        {
+            "id": 966,
+            "name": "Visit Harmony Island"
+        },
+        {
+            "id": 968,
+            "name": "Visit Mos Le'Harmless"
+        },
+        {
+            "id": 959,
+            "name": "Visit Port Phasmatys"
+        },
+        {
+            "id": 563,
+            "name": "Charter a Ship From Prifddinas to Port Tyras"
+        },
+        {
+            "id": 514,
+            "name": "Cook a Rabbit in Tirannwn"
+        },
+        {
+            "id": 521,
+            "name": "Cross a Trap in Isafdar"
+        },
+        {
+            "id": 532,
+            "name": "Defeat a Moss Giant in Tirannwn"
+        },
+        {
+            "id": 528,
+            "name": "Defeat a Waterfiend in Tirannwn"
+        },
+        {
+            "id": 564,
+            "name": "Talk to Ilfeen in Tirannwn"
+        },
+        {
+            "id": 1300,
+            "name": "Use Broken Handz's telescope"
+        },
+        {
+            "id": 556,
+            "name": "Use the Bank in Lletya"
+        },
+        {
+            "id": 1651,
+            "name": "Charter a Ship From Sunset Coast to Civitas"
+        },
+        {
+            "id": 1712,
+            "name": "Drink from a bird bath"
+        },
+        {
+            "id": 1754,
+            "name": "Give Oli some Stew"
+        },
+        {
+            "id": 1716,
+            "name": "Kill a Buffalo"
+        },
+        {
+            "id": 1715,
+            "name": "Kill a Guard in Varlamore underground"
+        },
+        {
+            "id": 1718,
+            "name": "Kill an Icefiend in Varlamore"
+        },
+        {
+            "id": 1717,
+            "name": "Milk a Buffalo"
+        },
+        {
+            "id": 1755,
+            "name": "Pet Renu"
+        },
+        {
+            "id": 1713,
+            "name": "Pet Xolo in Civitas"
+        },
+        {
+            "id": 1714,
+            "name": "Pick some Sweetcorn from a Field"
+        },
+        {
+            "id": 1777,
+            "name": "Shear an Alpaca"
+        },
+        {
+            "id": 1653,
+            "name": "Travel using the Quetzal Transport System"
+        },
+        {
+            "id": 994,
+            "name": "Defeat a Chaos Dwarf in the Wilderness"
+        },
+        {
+            "id": 990,
+            "name": "Defeat a Fire Giant in the Wilderness"
+        },
+        {
+            "id": 1037,
+            "name": "Enter the Wilderness God Wars Dungeon"
+        },
+        {
+            "id": 1035,
+            "name": "Enter the Wilderness Resource Area"
+        },
+        {
+            "id": 1295,
+            "name": "Equip a team cape"
+        },
+        {
+            "id": 1032,
+            "name": "Open a Looting Bag"
+        },
+        {
+            "id": 1031,
+            "name": "Use a Lever to Teleport to Edgeville"
+        },
+        {
+            "id": 1038,
+            "name": "Use the Bank at the Mage Arena"
+        },
+        {
+            "id": 122,
+            "name": "Visit Ferox Enclave"
+        },
+        {
+            "id": 148,
+            "name": "1 Easy Clue Scroll"
+        },
+        {
+            "id": 160,
+            "name": "1 Elite Clue Scroll"
+        },
+        {
+            "id": 156,
+            "name": "1 Hard Clue Scroll"
+        },
+        {
+            "id": 152,
+            "name": "1 Medium Clue Scroll"
+        },
+        {
+            "id": 1449,
+            "name": "15 Collection log slots"
+        },
+        {
+            "id": 149,
+            "name": "25 Easy Clue Scrolls"
+        },
+        {
+            "id": 161,
+            "name": "25 Elite Clue Scrolls"
+        },
+        {
+            "id": 157,
+            "name": "25 Hard Clue Scrolls"
+        },
+        {
+            "id": 153,
+            "name": "25 Medium Clue Scrolls"
+        },
+        {
+            "id": 96,
+            "name": "25 Superior Slayer Encounters"
+        },
+        {
+            "id": 1450,
+            "name": "30 Collection log slots"
+        },
+        {
+            "id": 1448,
+            "name": "5 Collection log slots"
+        },
+        {
+            "id": 1451,
+            "name": "50 Collection log slots"
+        },
+        {
+            "id": 150,
+            "name": "75 Easy Clue Scrolls"
+        },
+        {
+            "id": 154,
+            "name": "75 Medium Clue Scrolls"
+        },
+        {
+            "id": 98,
+            "name": "75 Superior Slayer Encounters"
+        },
+        {
+            "id": 195,
+            "name": "Achieve Your First Level 30"
+        },
+        {
+            "id": 196,
+            "name": "Achieve Your First Level 40"
+        },
+        {
+            "id": 197,
+            "name": "Achieve Your First Level 50"
+        },
+        {
+            "id": 198,
+            "name": "Achieve Your First Level 60"
+        },
+        {
+            "id": 359,
+            "name": "Build a Mahogany Portal"
+        },
+        {
+            "id": 357,
+            "name": "Build a Room in Your Player Owned House"
+        },
+        {
+            "id": 294,
+            "name": "Build a Waka Canoe"
+        },
+        {
+            "id": 360,
+            "name": "Build an Oak Larder"
+        },
+        {
+            "id": 374,
+            "name": "Burn 100 Willow Logs"
+        },
+        {
+            "id": 1821,
+            "name": "Burn 25 Maple Logs"
+        },
+        {
+            "id": 11,
+            "name": "Burn Some Coloured Logs"
+        },
+        {
+            "id": 188,
+            "name": "Bury Some Wyvern or Dragon Bones"
+        },
+        {
+            "id": 1567,
+            "name": "Buy a candle in Lumbridge"
+        },
+        {
+            "id": 434,
+            "name": "Cast a Blast Spell"
+        },
+        {
+            "id": 435,
+            "name": "Cast High Level Alchemy"
+        },
+        {
+            "id": 1827,
+            "name": "Catch 10 Pike"
+        },
+        {
+            "id": 343,
+            "name": "Catch 100 Lobsters"
+        },
+        {
+            "id": 1825,
+            "name": "Catch 25 Sardines"
+        },
+        {
+            "id": 345,
+            "name": "Catch 50 Salmon"
+        },
+        {
+            "id": 344,
+            "name": "Catch 50 Swordfish"
+        },
+        {
+            "id": 1614,
+            "name": "Catch a Grey Chinchompa"
+        },
+        {
+            "id": 382,
+            "name": "Catch a Swamp Lizard or Salamander"
+        },
+        {
+            "id": 285,
+            "name": "Check a grown Fruit Tree"
+        },
+        {
+            "id": 292,
+            "name": "Chop 100 Willow Logs"
+        },
+        {
+            "id": 293,
+            "name": "Chop Some Logs With a Rune Axe"
+        },
+        {
+            "id": 1217,
+            "name": "Chop some Rising Roots"
+        },
+        {
+            "id": 1788,
+            "name": "Clean 50 Grimy Cadantine"
+        },
+        {
+            "id": 1786,
+            "name": "Clean 50 Grimy Ranarr Weed"
+        },
+        {
+            "id": 395,
+            "name": "Clean a Grimy Avantoe"
+        },
+        {
+            "id": 1524,
+            "name": "Complete 1 Slayer Task"
+        },
+        {
+            "id": 1207,
+            "name": "Complete 10 Mahogany homes contracts"
+        },
+        {
+            "id": 1208,
+            "name": "Complete 25 Mahogany homes contracts"
+        },
+        {
+            "id": 389,
+            "name": "Complete 50 Laps of a Rooftop Agility Course"
+        },
+        {
+            "id": 1205,
+            "name": "Complete a Mahogany homes adept contract"
+        },
+        {
+            "id": 1203,
+            "name": "Complete a Mahogany homes beginner contract"
+        },
+        {
+            "id": 1204,
+            "name": "Complete a Mahogany homes novice contract"
+        },
+        {
+            "id": 763,
+            "name": "Complete the Easy Western Provinces Diary"
+        },
+        {
+            "id": 1621,
+            "name": "Complete the Evil Bob random event"
+        },
+        {
+            "id": 1219,
+            "name": "Complete the Flowering Bush event"
+        },
+        {
+            "id": 1625,
+            "name": "Complete the Maze random event"
+        },
+        {
+            "id": 764,
+            "name": "Complete the Medium Western Provinces Diary"
+        },
+        {
+            "id": 1519,
+            "name": "Complete the Pheasant Forestry Event"
+        },
+        {
+            "id": 1628,
+            "name": "Complete the Pillory random event"
+        },
+        {
+            "id": 1627,
+            "name": "Complete the Pinball random event"
+        },
+        {
+            "id": 1622,
+            "name": "Complete the Postie Pete random event"
+        },
+        {
+            "id": 1629,
+            "name": "Complete the Prison Pete random event"
+        },
+        {
+            "id": 1518,
+            "name": "Complete the Ritual Forestry Event"
+        },
+        {
+            "id": 1218,
+            "name": "Complete the Struggling Sapling event"
+        },
+        {
+            "id": 1631,
+            "name": "Complete the Surprise Exam random event"
+        },
+        {
+            "id": 1826,
+            "name": "Cook 10 Sardines"
+        },
+        {
+            "id": 300,
+            "name": "Cook 100 Lobsters"
+        },
+        {
+            "id": 1828,
+            "name": "Cook 20 Pike"
+        },
+        {
+            "id": 367,
+            "name": "Craft 200 Essence Into Runes"
+        },
+        {
+            "id": 368,
+            "name": "Craft 4 Runes With 1 Essence"
+        },
+        {
+            "id": 336,
+            "name": "Craft a Ruby Amulet"
+        },
+        {
+            "id": 335,
+            "name": "Craft an Emerald Ring"
+        },
+        {
+            "id": 369,
+            "name": "Craft Any Combination Rune"
+        },
+        {
+            "id": 1351,
+            "name": "Create a green d'hide shield"
+        },
+        {
+            "id": 1368,
+            "name": "Create a Guthix Rest Tea"
+        },
+        {
+            "id": 1820,
+            "name": "Cut 50 Maple Logs"
+        },
+        {
+            "id": 62,
+            "name": "Defeat a Lesser Demon"
+        },
+        {
+            "id": 322,
+            "name": "Defeat a Superior Slayer Creature"
+        },
+        {
+            "id": 15,
+            "name": "Eat some Purple Sweets"
+        },
+        {
+            "id": 1335,
+            "name": "Equip a frog mask"
+        },
+        {
+            "id": 418,
+            "name": "Equip a Full Adamant Set"
+        },
+        {
+            "id": 423,
+            "name": "Equip a Full Blue Dragonhide Set"
+        },
+        {
+            "id": 422,
+            "name": "Equip a Full Green Dragonhide Set"
+        },
+        {
+            "id": 417,
+            "name": "Equip a Full Mithril Set"
+        },
+        {
+            "id": 424,
+            "name": "Equip a Full Red Dragonhide Set"
+        },
+        {
+            "id": 593,
+            "name": "Equip a Granite Shield"
+        },
+        {
+            "id": 1012,
+            "name": "Equip a Lava Battlestaff"
+        },
+        {
+            "id": 616,
+            "name": "Equip a Leaf-Bladed Sword"
+        },
+        {
+            "id": 426,
+            "name": "Equip a Maple Shortbow"
+        },
+        {
+            "id": 412,
+            "name": "Equip a Mithril Weapon"
+        },
+        {
+            "id": 75,
+            "name": "Equip a Piece of a Mystic Set"
+        },
+        {
+            "id": 1618,
+            "name": "Equip a piece of Beekeeper's Outfit"
+        },
+        {
+            "id": 1620,
+            "name": "Equip a piece of Camouflage outfit"
+        },
+        {
+            "id": 1626,
+            "name": "Equip a piece of Mime Outfit"
+        },
+        {
+            "id": 1623,
+            "name": "Equip a piece of Zombie Outfit"
+        },
+        {
+            "id": 414,
+            "name": "Equip a Rune Weapon"
+        },
+        {
+            "id": 19,
+            "name": "Equip a Trimmed Amulet"
+        },
+        {
+            "id": 1074,
+            "name": "Equip a Willow Shield"
+        },
+        {
+            "id": 74,
+            "name": "Equip a Wizard Robe and Hat"
+        },
+        {
+            "id": 427,
+            "name": "Equip a Yew Shortbow"
+        },
+        {
+            "id": 413,
+            "name": "Equip an Adamant Weapon"
+        },
+        {
+            "id": 433,
+            "name": "Equip an Elemental Battlestaff or Mystic Staff"
+        },
+        {
+            "id": 381,
+            "name": "Equip full Graahk, Larupia or Kyatt"
+        },
+        {
+            "id": 1073,
+            "name": "Equip some Black armour"
+        },
+        {
+            "id": 1072,
+            "name": "Equip some Steel armour"
+        },
+        {
+            "id": 29,
+            "name": "Fill 15 Hard Clue Collection Log Slots"
+        },
+        {
+            "id": 35,
+            "name": "Fill 20 Easy Clue Collection Log Slots"
+        },
+        {
+            "id": 34,
+            "name": "Fill 20 Medium Clue Collection Log Slots"
+        },
+        {
+            "id": 27,
+            "name": "Fill 3 Elite Clue Collection Log Slots"
+        },
+        {
+            "id": 32,
+            "name": "Fill 3 Hard Clue Collection Log Slots"
+        },
+        {
+            "id": 39,
+            "name": "Fill 5 Beginner Clue Collection Log Slots"
+        },
+        {
+            "id": 38,
+            "name": "Fill 5 Easy Clue Collection Log Slots"
+        },
+        {
+            "id": 33,
+            "name": "Fill 5 Medium Clue Collection Log Slots"
+        },
+        {
+            "id": 284,
+            "name": "Fill a Bucket With Supercompost"
+        },
+        {
+            "id": 983,
+            "name": "Fill a Large Pouch"
+        },
+        {
+            "id": 361,
+            "name": "Fill a Medium STASH Unit"
+        },
+        {
+            "id": 1530,
+            "name": "Find the Needle"
+        },
+        {
+            "id": 1358,
+            "name": "Fletch 1000 arrow shafts"
+        },
+        {
+            "id": 312,
+            "name": "Fletch 150 Iron Arrows"
+        },
+        {
+            "id": 1357,
+            "name": "Fletch 25 Oak Stocks"
+        },
+        {
+            "id": 313,
+            "name": "Fletch a Willow Shortbow (u)"
+        },
+        {
+            "id": 315,
+            "name": "Fletch some Broad Arrows or Bolts"
+        },
+        {
+            "id": 54,
+            "name": "Gain 10 Unique Items From Beginner Clues"
+        },
+        {
+            "id": 52,
+            "name": "Gain 10 Unique Items From Easy Clues"
+        },
+        {
+            "id": 50,
+            "name": "Gain 10 Unique Items From Medium Clues"
+        },
+        {
+            "id": 45,
+            "name": "Gain 20 Unique Items From Hard Clues"
+        },
+        {
+            "id": 49,
+            "name": "Gain 35 Unique Items From Easy Clues"
+        },
+        {
+            "id": 48,
+            "name": "Gain 5 Unique Items From Hard Clues"
+        },
+        {
+            "id": 59,
+            "name": "Gain a Unique Item From a Beginner Clue"
+        },
+        {
+            "id": 55,
+            "name": "Gain a Unique Item From a Hard Clue"
+        },
+        {
+            "id": 53,
+            "name": "Gain a Unique Item From a Master Clue"
+        },
+        {
+            "id": 58,
+            "name": "Gain a Unique Item From a Medium Clue"
+        },
+        {
+            "id": 57,
+            "name": "Gain a Unique Item From an Easy Clue"
+        },
+        {
+            "id": 283,
+            "name": "Harvest an Irit Leaf"
+        },
+        {
+            "id": 1580,
+            "name": "Kill 5 Bunnies"
+        },
+        {
+            "id": 1280,
+            "name": "Kill three chickens in 6 seconds"
+        },
+        {
+            "id": 1538,
+            "name": "Land a hoop on a stick"
+        },
+        {
+            "id": 376,
+            "name": "Light a Bullseye Lantern"
+        },
+        {
+            "id": 778,
+            "name": "Make 20 Stamina Potions"
+        },
+        {
+            "id": 394,
+            "name": "Make 30 Prayer Potions"
+        },
+        {
+            "id": 396,
+            "name": "Make a 4 dose potion"
+        },
+        {
+            "id": 301,
+            "name": "Make a Pineapple Pizza"
+        },
+        {
+            "id": 1154,
+            "name": "Make some Flour"
+        },
+        {
+            "id": 1372,
+            "name": "Mine 15 coal"
+        },
+        {
+            "id": 306,
+            "name": "Mine 50 Iron Ore"
+        },
+        {
+            "id": 1823,
+            "name": "Mine 50 Mithril Ore"
+        },
+        {
+            "id": 307,
+            "name": "Mine some Ore With a Rune Pickaxe"
+        },
+        {
+            "id": 277,
+            "name": "Obtain 800 Coins From Coin Pouches At Once"
+        },
+        {
+            "id": 308,
+            "name": "Obtain a Clue Geode While Mining"
+        },
+        {
+            "id": 305,
+            "name": "Obtain a Gem While Mining"
+        },
+        {
+            "id": 386,
+            "name": "Obtain a Mark of Grace"
+        },
+        {
+            "id": 274,
+            "name": "Open 28 Coin Pouches At Once"
+        },
+        {
+            "id": 1630,
+            "name": "Open the Mystery Box"
+        },
+        {
+            "id": 86,
+            "name": "Pickpocket a Master Farmer"
+        },
+        {
+            "id": 134,
+            "name": "Reach a Prayer Bonus of 15"
+        },
+        {
+            "id": 216,
+            "name": "Reach Base Level 10"
+        },
+        {
+            "id": 217,
+            "name": "Reach Base Level 20"
+        },
+        {
+            "id": 218,
+            "name": "Reach Base Level 30"
+        },
+        {
+            "id": 215,
+            "name": "Reach Base Level 5"
+        },
+        {
+            "id": 403,
+            "name": "Reach Combat Level 50"
+        },
+        {
+            "id": 404,
+            "name": "Reach Combat Level 75"
+        },
+        {
+            "id": 203,
+            "name": "Reach Total Level 100"
+        },
+        {
+            "id": 204,
+            "name": "Reach Total Level 250"
+        },
+        {
+            "id": 205,
+            "name": "Reach Total Level 500"
+        },
+        {
+            "id": 206,
+            "name": "Reach Total Level 750"
+        },
+        {
+            "id": 1304,
+            "name": "Read a prayer book near a lectern"
+        },
+        {
+            "id": 1330,
+            "name": "Scrape some blue dragonhide"
+        },
+        {
+            "id": 320,
+            "name": "Slay 250 Creatures"
+        },
+        {
+            "id": 352,
+            "name": "Smelt a Steel Bar"
+        },
+        {
+            "id": 1375,
+            "name": "Smith 10 Steel bolts (unf)"
+        },
+        {
+            "id": 349,
+            "name": "Smith 150 Iron Arrowtips"
+        },
+        {
+            "id": 1824,
+            "name": "Smith 250 Mithril bolts (unf)"
+        },
+        {
+            "id": 351,
+            "name": "Smith a Steel Platebody"
+        },
+        {
+            "id": 298,
+            "name": "Successfully Cook 5 Pieces of Food"
+        },
+        {
+            "id": 432,
+            "name": "Teleport Using Law Runes"
+        },
+        {
+            "id": 1624,
+            "name": "Trade a herb with Jekyll"
+        },
+        {
+            "id": 387,
+            "name": "Use the Protect from Melee Prayer"
+        },
+        {
+            "id": 804,
+            "name": "Charge an Amulet of Glory in the Heroes' Guild"
+        },
+        {
+            "id": 828,
+            "name": "Complete a Game of Intermediate Pest Control"
+        },
+        {
+            "id": 827,
+            "name": "Complete a Game of Novice Pest Control"
+        },
+        {
+            "id": 815,
+            "name": "Complete the Easy Falador Diary"
+        },
+        {
+            "id": 768,
+            "name": "Complete the Falador Agility Course"
+        },
+        {
+            "id": 816,
+            "name": "Complete the Medium Falador Diary"
+        },
+        {
+            "id": 1813,
+            "name": "Consume a Saradomin's Light"
+        },
+        {
+            "id": 775,
+            "name": "Craft a Body Rune"
+        },
+        {
+            "id": 805,
+            "name": "Defeat a Black Demon in Asgarnia"
+        },
+        {
+            "id": 803,
+            "name": "Defeat a Blue Dragon in Asgarnia"
+        },
+        {
+            "id": 787,
+            "name": "Defeat a Skeletal Wyvern"
+        },
+        {
+            "id": 1331,
+            "name": "Defeat the Evil chicken"
+        },
+        {
+            "id": 782,
+            "name": "Defeat the Giant Mole"
+        },
+        {
+            "id": 813,
+            "name": "Defeat the Giant Mole 150 Times"
+        },
+        {
+            "id": 812,
+            "name": "Defeat the Giant Mole 50 Times"
+        },
+        {
+            "id": 773,
+            "name": "Enter the Crafting Guild"
+        },
+        {
+            "id": 824,
+            "name": "Enter the Warriors' Guild"
+        },
+        {
+            "id": 1812,
+            "name": "Equip a Defender"
+        },
+        {
+            "id": 1251,
+            "name": "Equip Amy's Saw"
+        },
+        {
+            "id": 1075,
+            "name": "Equip an Imcando Hammer"
+        },
+        {
+            "id": 1550,
+            "name": "Hang a Painting of a Watermill"
+        },
+        {
+            "id": 779,
+            "name": "Harvest Any Herb at the Troll Stronghold"
+        },
+        {
+            "id": 1617,
+            "name": "Kill 5 Spinners"
+        },
+        {
+            "id": 1338,
+            "name": "Make 50 Ancient Brews"
+        },
+        {
+            "id": 771,
+            "name": "Obtain 20 Golden Nuggets"
+        },
+        {
+            "id": 1252,
+            "name": "Obtain the Plank Sack"
+        },
+        {
+            "id": 1076,
+            "name": "Open an Ornate Lockbox"
+        },
+        {
+            "id": 830,
+            "name": "Open the Crystal Chest"
+        },
+        {
+            "id": 711,
+            "name": "Set Up a Dwarf Cannon"
+        },
+        {
+            "id": 1543,
+            "name": "Throw a Shot Put 12 yards"
+        },
+        {
+            "id": 822,
+            "name": "Turn in 100 Mole Claws to Wyson the Gardener"
+        },
+        {
+            "id": 821,
+            "name": "Unlock a Gate in Taverley Dungeon"
+        },
+        {
+            "id": 1085,
+            "name": "10 Tempoross Kills"
+        },
+        {
+            "id": 868,
+            "name": "Cast Ice Rush"
+        },
+        {
+            "id": 859,
+            "name": "Catch 30 Orange Salamanders"
+        },
+        {
+            "id": 1319,
+            "name": "Commune a Pharoah's Sceptre to the Necropolis"
+        },
+        {
+            "id": 896,
+            "name": "Complete Shadow of the Storm"
+        },
+        {
+            "id": 1407,
+            "name": "Complete Sleeping Giants"
+        },
+        {
+            "id": 886,
+            "name": "Complete Spirits of the Elid"
+        },
+        {
+            "id": 877,
+            "name": "Complete the Easy Desert Diary"
+        },
+        {
+            "id": 897,
+            "name": "Complete The Golem"
+        },
+        {
+            "id": 878,
+            "name": "Complete the Medium Desert Diary"
+        },
+        {
+            "id": 855,
+            "name": "Craft a Lava Rune at the Fire Altar"
+        },
+        {
+            "id": 1572,
+            "name": "Craft some Pottery In Sophanem"
+        },
+        {
+            "id": 1237,
+            "name": "Create the Divine Rune pouch"
+        },
+        {
+            "id": 1044,
+            "name": "Defeat a Crocodile"
+        },
+        {
+            "id": 865,
+            "name": "Defeat a Kalphite Guardian"
+        },
+        {
+            "id": 1247,
+            "name": "Equip the Colossal Blade"
+        },
+        {
+            "id": 1250,
+            "name": "Equip the Tome of Water"
+        },
+        {
+            "id": 1214,
+            "name": "Giants' Foundry 10 handins"
+        },
+        {
+            "id": 1212,
+            "name": "Giants' Foundry 100 quality sword"
+        },
+        {
+            "id": 1211,
+            "name": "Giants' Foundry 50 quality sword"
+        },
+        {
+            "id": 1190,
+            "name": "Guardians of the Rift 1 Rift closed"
+        },
+        {
+            "id": 1191,
+            "name": "Guardians of the Rift 10 Rifts closed"
+        },
+        {
+            "id": 1570,
+            "name": "Kill 10 Locusts"
+        },
+        {
+            "id": 1574,
+            "name": "Kill 30 Bandits"
+        },
+        {
+            "id": 1220,
+            "name": "Kill a Kalphite with the Keris Partisan"
+        },
+        {
+            "id": 1046,
+            "name": "Make a Combat Potion"
+        },
+        {
+            "id": 1571,
+            "name": "Mine 15 Granite in the Necropolis"
+        },
+        {
+            "id": 860,
+            "name": "Mine 30 Chunks of Granite"
+        },
+        {
+            "id": 1249,
+            "name": "Obtain the Big Harpoonfish"
+        },
+        {
+            "id": 844,
+            "name": "Pick a Autumn Sq'irk"
+        },
+        {
+            "id": 843,
+            "name": "Pick a Spring Sq'irk"
+        },
+        {
+            "id": 850,
+            "name": "Pickpocket a Bandit in the Bandit Camp"
+        },
+        {
+            "id": 890,
+            "name": "Pray at the Elidinis Statuette"
+        },
+        {
+            "id": 834,
+            "name": "Room 4 of Pyramid Plunder"
+        },
+        {
+            "id": 835,
+            "name": "Room 5 of Pyramid Plunder"
+        },
+        {
+            "id": 836,
+            "name": "Room 6 of Pyramid Plunder"
+        },
+        {
+            "id": 1534,
+            "name": "Stun a monster"
+        },
+        {
+            "id": 847,
+            "name": "Turn in 10 Spring Sq'irkjuices to Osman"
+        },
+        {
+            "id": 853,
+            "name": "Turn in a Pyramid Top to Simon Templeton"
+        },
+        {
+            "id": 1833,
+            "name": "Catch a Sabre-toothed Kebbit"
+        },
+        {
+            "id": 1584,
+            "name": "Catch a Sapphire Glacialis"
+        },
+        {
+            "id": 577,
+            "name": "Catch a Snowy Knight"
+        },
+        {
+            "id": 633,
+            "name": "Complete Royal Trouble"
+        },
+        {
+            "id": 623,
+            "name": "Complete the Easy Fremennik Diary"
+        },
+        {
+            "id": 624,
+            "name": "Complete the Medium Fremennik Diary"
+        },
+        {
+            "id": 574,
+            "name": "Complete the Penguin Agility Course"
+        },
+        {
+            "id": 628,
+            "name": "Complete Throne of Miscellania"
+        },
+        {
+            "id": 573,
+            "name": "Craft 50 Astral Runes"
+        },
+        {
+            "id": 598,
+            "name": "Defeat a Dagannoth in the Fremennik Province"
+        },
+        {
+            "id": 611,
+            "name": "Defeat a Jelly in the Fremennik Province"
+        },
+        {
+            "id": 589,
+            "name": "Defeat a Kurask in the Fremennik Province"
+        },
+        {
+            "id": 594,
+            "name": "Defeat a Troll in the Fremennik Province"
+        },
+        {
+            "id": 606,
+            "name": "Defeat a Turoth in the Fremennik Province"
+        },
+        {
+            "id": 627,
+            "name": "Deposit an Item Using Peer the Seer"
+        },
+        {
+            "id": 1836,
+            "name": "Equip a Damaged God book"
+        },
+        {
+            "id": 1291,
+            "name": "Equip a full set of Yakhide Armour"
+        },
+        {
+            "id": 603,
+            "name": "Equip a Helm of Neitiznot"
+        },
+        {
+            "id": 1583,
+            "name": "Fill up 20 buckets of sand in Rellekka"
+        },
+        {
+            "id": 1293,
+            "name": "Kill 8 penguins within 5 seconds"
+        },
+        {
+            "id": 1807,
+            "name": "Kill a Brine Rat"
+        },
+        {
+            "id": 1843,
+            "name": "Kill a Suqah"
+        },
+        {
+            "id": 1841,
+            "name": "Kill a Wallasalki"
+        },
+        {
+            "id": 1838,
+            "name": "Loot a Lyre"
+        },
+        {
+            "id": 1802,
+            "name": "Open a Frozen Cache"
+        },
+        {
+            "id": 1844,
+            "name": "Steal a Chisel"
+        },
+        {
+            "id": 1582,
+            "name": "Steal a Cow bell in Rellekka"
+        },
+        {
+            "id": 1834,
+            "name": "Steal a Fish"
+        },
+        {
+            "id": 1835,
+            "name": "Steal a Wooden Stock"
+        },
+        {
+            "id": 579,
+            "name": "Unlock Free Use of the Blast Furnace"
+        },
+        {
+            "id": 580,
+            "name": "Use Some Icy Basalt to Teleport to Weiss"
+        },
+        {
+            "id": 612,
+            "name": "Use the Special Attack of a Dragon Axe"
+        },
+        {
+            "id": 696,
+            "name": "Catch a Monkfish"
+        },
+        {
+            "id": 694,
+            "name": "Catch a Red Salamander"
+        },
+        {
+            "id": 698,
+            "name": "Complete a Fishing Trawler Game"
+        },
+        {
+            "id": 1155,
+            "name": "Complete Fishing Contest"
+        },
+        {
+            "id": 741,
+            "name": "Complete Monk's Friend"
+        },
+        {
+            "id": 745,
+            "name": "Complete Sea Slug"
+        },
+        {
+            "id": 687,
+            "name": "Complete the Barbarian Outpost Agility Course"
+        },
+        {
+            "id": 1053,
+            "name": "Complete the Easy Ardougne Diary"
+        },
+        {
+            "id": 759,
+            "name": "Complete the Easy Kandarin Diary"
+        },
+        {
+            "id": 1054,
+            "name": "Complete the Medium Ardougne Diary"
+        },
+        {
+            "id": 760,
+            "name": "Complete the Medium Kandarin Diary"
+        },
+        {
+            "id": 746,
+            "name": "Complete the Observatory Quest"
+        },
+        {
+            "id": 743,
+            "name": "Complete Tower of Life"
+        },
+        {
+            "id": 708,
+            "name": "Defeat a Tortoise With Riders in Kandarin"
+        },
+        {
+            "id": 719,
+            "name": "Defeat the Thermonuclear Smoke Devil"
+        },
+        {
+            "id": 1153,
+            "name": "Drink a Poison Chalice"
+        },
+        {
+            "id": 695,
+            "name": "Enter the Fishing Guild"
+        },
+        {
+            "id": 714,
+            "name": "Enter the Ranging Guild"
+        },
+        {
+            "id": 717,
+            "name": "Enter the Wizards' Guild"
+        },
+        {
+            "id": 709,
+            "name": "Equip a Dragon Scimitar"
+        },
+        {
+            "id": 749,
+            "name": "Equip a Marksman Chompy Hat"
+        },
+        {
+            "id": 754,
+            "name": "Equip a Monkey Backpack"
+        },
+        {
+            "id": 693,
+            "name": "Equip a Spottier Cape"
+        },
+        {
+            "id": 750,
+            "name": "Equip an Ogre Forester Chompy Hat"
+        },
+        {
+            "id": 1535,
+            "name": "Get 250 Target points"
+        },
+        {
+            "id": 1442,
+            "name": "Kill a Newtroost"
+        },
+        {
+            "id": 1441,
+            "name": "Kill a Swordchick"
+        },
+        {
+            "id": 1815,
+            "name": "Light a Pyre Ship"
+        },
+        {
+            "id": 701,
+            "name": "Move Your House to Yanille"
+        },
+        {
+            "id": 684,
+            "name": "Pickpocket a Knight of Ardougne 50 Times"
+        },
+        {
+            "id": 1444,
+            "name": "Sell 20 Iron Sheets"
+        },
+        {
+            "id": 1817,
+            "name": "Steal from a Fur Stall"
+        },
+        {
+            "id": 1818,
+            "name": "Steal from a Silver Stall"
+        },
+        {
+            "id": 1819,
+            "name": "Steal from a Spice Stall"
+        },
+        {
+            "id": 691,
+            "name": "Trap a Spined Larupia in the Feldip Hills"
+        },
+        {
+            "id": 1527,
+            "name": "Use a Herring on a mighty tree"
+        },
+        {
+            "id": 738,
+            "name": "Win a Game of Castle Wars"
+        },
+        {
+            "id": 639,
+            "name": "Buy a Snapdragon From Pirate Jackie the Fruit"
+        },
+        {
+            "id": 646,
+            "name": "Catch 50 Karambwan"
+        },
+        {
+            "id": 645,
+            "name": "Catch a Salmon on Karamja"
+        },
+        {
+            "id": 671,
+            "name": "Complete the Easy Karamja Diary"
+        },
+        {
+            "id": 672,
+            "name": "Complete the Medium Karamja Diary"
+        },
+        {
+            "id": 648,
+            "name": "Craft 50 Nature Runes"
+        },
+        {
+            "id": 658,
+            "name": "Defeat a Greater Demon on Karamja"
+        },
+        {
+            "id": 670,
+            "name": "Defeat a Steel Dragon on Karamja"
+        },
+        {
+            "id": 650,
+            "name": "Defeat a TzHaar"
+        },
+        {
+            "id": 683,
+            "name": "Enter the Brimhaven Dungeon"
+        },
+        {
+            "id": 676,
+            "name": "Enter the Tai Bwo Wannai Hardwood Grove"
+        },
+        {
+            "id": 656,
+            "name": "Equip a Toktz-Ket-Xil"
+        },
+        {
+            "id": 662,
+            "name": "Equip a Toktz-Xil-Ak"
+        },
+        {
+            "id": 663,
+            "name": "Equip a Toktz-Xil-Ek"
+        },
+        {
+            "id": 651,
+            "name": "Equip an Obsidian Cape"
+        },
+        {
+            "id": 1529,
+            "name": "Sleep in Paramaya Inn"
+        },
+        {
+            "id": 640,
+            "name": "Take a Shortcut Across the Shilo Village River"
+        },
+        {
+            "id": 68,
+            "name": "10 Wintertodt Kills"
+        },
+        {
+            "id": 101,
+            "name": "150 Lizardmen Shaman Kills"
+        },
+        {
+            "id": 69,
+            "name": "25 Wintertodt Kills"
+        },
+        {
+            "id": 100,
+            "name": "50 Lizardmen Shaman Kills"
+        },
+        {
+            "id": 104,
+            "name": "50 Sarachnis Kills"
+        },
+        {
+            "id": 1601,
+            "name": "Capture 10 sandworms"
+        },
+        {
+            "id": 1124,
+            "name": "Cast Degrime Spell Full Clean"
+        },
+        {
+            "id": 178,
+            "name": "Cast Kourend Castle Teleport"
+        },
+        {
+            "id": 1607,
+            "name": "Chop 15 Yew Logs in Shayzien"
+        },
+        {
+            "id": 1598,
+            "name": "Chop 25 Juniper Logs"
+        },
+        {
+            "id": 72,
+            "name": "Complete 10 Farming Contracts"
+        },
+        {
+            "id": 1632,
+            "name": "Complete the Garden of Death"
+        },
+        {
+            "id": 1604,
+            "name": "Complete the Shayzien Basic Agility Course"
+        },
+        {
+            "id": 1599,
+            "name": "Create 100 Juniper Charcoal"
+        },
+        {
+            "id": 1058,
+            "name": "Defeat a Drake"
+        },
+        {
+            "id": 1597,
+            "name": "Dig 25 Saltpetre"
+        },
+        {
+            "id": 81,
+            "name": "Enter the Farming Guild's Mid Tier"
+        },
+        {
+            "id": 87,
+            "name": "Enter the Woodcutting Guild"
+        },
+        {
+            "id": 1593,
+            "name": "Equip the Cursed Amulet of Magic"
+        },
+        {
+            "id": 177,
+            "name": "Equip Xeric's Talisman"
+        },
+        {
+            "id": 1127,
+            "name": "Inferior Demonbane Demon Kill"
+        },
+        {
+            "id": 1596,
+            "name": "Kill 5 Sand Crabs"
+        },
+        {
+            "id": 1595,
+            "name": "Kill a King Sand Crab"
+        },
+        {
+            "id": 1611,
+            "name": "Kill a Moss, Fire &amp;Hill Giant in Kourend"
+        },
+        {
+            "id": 135,
+            "name": "Kourend and Kebos Easy Diary Tasks"
+        },
+        {
+            "id": 136,
+            "name": "Kourend and Kebos Medium Diary Tasks"
+        },
+        {
+            "id": 1592,
+            "name": "Make 50 Oak Planks in Kourend"
+        },
+        {
+            "id": 1634,
+            "name": "Mine 50 Volcanic Sulphur"
+        },
+        {
+            "id": 1591,
+            "name": "Offer an egg to a shrine"
+        },
+        {
+            "id": 77,
+            "name": "Plant 100 Golovanova Seeds"
+        },
+        {
+            "id": 181,
+            "name": "Purchase a Seed Box"
+        },
+        {
+            "id": 1610,
+            "name": "Restore 14 Prayer points in Hosidius"
+        },
+        {
+            "id": 1285,
+            "name": "Smelt a mithril bar in a volcanic fissure"
+        },
+        {
+            "id": 1636,
+            "name": "Smith Shayzien (1)"
+        },
+        {
+            "id": 1608,
+            "name": "Smith Steel in Kourend Castle"
+        },
+        {
+            "id": 142,
+            "name": "Steal 1 Artefact"
+        },
+        {
+            "id": 143,
+            "name": "Steal 15 Artefacts"
+        },
+        {
+            "id": 76,
+            "name": "Steal a Golovanova Fruit Top"
+        },
+        {
+            "id": 1612,
+            "name": "Talk to the Voice of Yama"
+        },
+        {
+            "id": 120,
+            "name": "Teleport to Xeric's Honour"
+        },
+        {
+            "id": 146,
+            "name": "Turn in 10 Library Books"
+        },
+        {
+            "id": 507,
+            "name": "Build a Bank on Fossil Island"
+        },
+        {
+            "id": 445,
+            "name": "Catch 50 Implings in Puro-Puro"
+        },
+        {
+            "id": 465,
+            "name": "Chop a Sulliuscep Cap"
+        },
+        {
+            "id": 1316,
+            "name": "Churn some butter"
+        },
+        {
+            "id": 460,
+            "name": "Complete 10 Laps of the Draynor Agility Course"
+        },
+        {
+            "id": 1523,
+            "name": "Complete 10 Laps of the Varrock Agility Course"
+        },
+        {
+            "id": 447,
+            "name": "Complete a Volcanic Mine Game"
+        },
+        {
+            "id": 499,
+            "name": "Complete Demon Slayer"
+        },
+        {
+            "id": 500,
+            "name": "Complete Sheep Shearer"
+        },
+        {
+            "id": 488,
+            "name": "Complete the Easy Lumbridge &amp;Draynor Diary"
+        },
+        {
+            "id": 1047,
+            "name": "Complete the Easy Varrock Diary"
+        },
+        {
+            "id": 489,
+            "name": "Complete the Medium Lumbridge &amp;Draynor Diary"
+        },
+        {
+            "id": 1048,
+            "name": "Complete the Medium Varrock Diary"
+        },
+        {
+            "id": 503,
+            "name": "Complete Vampyre Slayer"
+        },
+        {
+            "id": 463,
+            "name": "Craft 50 Cosmic Runes"
+        },
+        {
+            "id": 462,
+            "name": "Craft 50 Water Runes"
+        },
+        {
+            "id": 1757,
+            "name": "Defeat 50 Tormented Demons"
+        },
+        {
+            "id": 467,
+            "name": "Defeat a Fossil Island Wyvern"
+        },
+        {
+            "id": 1756,
+            "name": "Defeat a Tormented Demon"
+        },
+        {
+            "id": 476,
+            "name": "Defeat Bryophyta"
+        },
+        {
+            "id": 472,
+            "name": "Defeat Obor"
+        },
+        {
+            "id": 1648,
+            "name": "Defeat Scurrius"
+        },
+        {
+            "id": 1649,
+            "name": "Defeat Scurrius 10 times"
+        },
+        {
+            "id": 1650,
+            "name": "Defeat Scurrius 25 times"
+        },
+        {
+            "id": 439,
+            "name": "Dismantle 20 Filled Bird Houses"
+        },
+        {
+            "id": 501,
+            "name": "Drink From the Tears of Guthix"
+        },
+        {
+            "id": 1526,
+            "name": "Eat Eel sushi"
+        },
+        {
+            "id": 451,
+            "name": "Enter the Cooks' Guild"
+        },
+        {
+            "id": 479,
+            "name": "Equip a Dorgeshuun Crossbow"
+        },
+        {
+            "id": 1830,
+            "name": "Equip a Rat Bone Weapon"
+        },
+        {
+            "id": 502,
+            "name": "Equip Some Fancy Boots or Fighting Boots"
+        },
+        {
+            "id": 1254,
+            "name": "Equip the Forestry Basket"
+        },
+        {
+            "id": 505,
+            "name": "Fully Unlock the Mycelium Transportation System"
+        },
+        {
+            "id": 1531,
+            "name": "Get a Gem from a Gorak"
+        },
+        {
+            "id": 1528,
+            "name": "Make a pie for Romily"
+        },
+        {
+            "id": 1613,
+            "name": "Mine 25 Pure Essence"
+        },
+        {
+            "id": 1329,
+            "name": "Open the Dark Chest"
+        },
+        {
+            "id": 458,
+            "name": "Pickpocket a Bullseye Lantern From a Cave Goblin"
+        },
+        {
+            "id": 454,
+            "name": "Pickpocket a H.A.M. Member"
+        },
+        {
+            "id": 455,
+            "name": "Pickpocket a Varrock Guard"
+        },
+        {
+            "id": 1532,
+            "name": "Provide Terry a buckle"
+        },
+        {
+            "id": 509,
+            "name": "Use a Digsite Pendant to Teleport to Fossil Island"
+        },
+        {
+            "id": 450,
+            "name": "Use the Range in Lumbridge Castle"
+        },
+        {
+            "id": 1133,
+            "name": "Win a Game of Soul Wars"
+        },
+        {
+            "id": 965,
+            "name": "Achieve 100% Shades of Mort'Ton Sanctity"
+        },
+        {
+            "id": 917,
+            "name": "Assemble a Slayer Helm"
+        },
+        {
+            "id": 1354,
+            "name": "Burn 20 Pyre Logs"
+        },
+        {
+            "id": 912,
+            "name": "Catch a Swamp Lizard in Morytania"
+        },
+        {
+            "id": 1589,
+            "name": "Chop 100 Blisterwood Logs"
+        },
+        {
+            "id": 958,
+            "name": "Complete a Hard Temple Trek"
+        },
+        {
+            "id": 957,
+            "name": "Complete a Medium Temple Trek"
+        },
+        {
+            "id": 908,
+            "name": "Complete the Canifis Agility Course"
+        },
+        {
+            "id": 952,
+            "name": "Complete the Easy Morytania Diary"
+        },
+        {
+            "id": 953,
+            "name": "Complete the Medium Morytania Diary"
+        },
+        {
+            "id": 909,
+            "name": "Complete the Werewolf Agility Course"
+        },
+        {
+            "id": 915,
+            "name": "Craft a Rune Using Daeyalt Essence"
+        },
+        {
+            "id": 1262,
+            "name": "Create the long rope shortcut in Darkmeyer"
+        },
+        {
+            "id": 921,
+            "name": "Defeat a Fiyr Shade"
+        },
+        {
+            "id": 918,
+            "name": "Defeat a Gargoyle in Morytania"
+        },
+        {
+            "id": 925,
+            "name": "Defeat a Vyrewatch Sentinel"
+        },
+        {
+            "id": 926,
+            "name": "Defeat an Abyssal Demon in Morytania"
+        },
+        {
+            "id": 1588,
+            "name": "Equip a full set of Vyre Noble"
+        },
+        {
+            "id": 934,
+            "name": "Equip a Granite Hammer or Granite Ring"
+        },
+        {
+            "id": 929,
+            "name": "Equip a Piece of any Barrows Armour Set"
+        },
+        {
+            "id": 1128,
+            "name": "Equip a Piece of Zealot's Robes"
+        },
+        {
+            "id": 967,
+            "name": "Equip a Salve Amulet (e)"
+        },
+        {
+            "id": 1326,
+            "name": "Feed a ghast some sweets"
+        },
+        {
+            "id": 898,
+            "name": "Floor 1 of the Hallowed Sepulchre"
+        },
+        {
+            "id": 899,
+            "name": "Floor 2 of the Hallowed Sepulchre"
+        },
+        {
+            "id": 900,
+            "name": "Floor 3 of the Hallowed Sepulchre"
+        },
+        {
+            "id": 1307,
+            "name": "Have the Taxidermist stuff something for you"
+        },
+        {
+            "id": 932,
+            "name": "Loot a Barrows Chest"
+        },
+        {
+            "id": 1131,
+            "name": "Open a Black Chest"
+        },
+        {
+            "id": 963,
+            "name": "Pet Frank"
+        },
+        {
+            "id": 906,
+            "name": "Purchase a Reward From the Hallowed Sepulchre"
+        },
+        {
+            "id": 1586,
+            "name": "Smelt a Steel Bar in Port Phasmatys"
+        },
+        {
+            "id": 1546,
+            "name": "Smuggle some Rum"
+        },
+        {
+            "id": 1320,
+            "name": "Telegrab a Bloody bracer"
+        },
+        {
+            "id": 1585,
+            "name": "Worship the Ectofuntus"
+        },
+        {
+            "id": 519,
+            "name": "Catch a Crystal Impling"
+        },
+        {
+            "id": 517,
+            "name": "Check a grown Papaya Tree in Lletya"
+        },
+        {
+            "id": 1579,
+            "name": "Chop 100 Maples in Tirannwn"
+        },
+        {
+            "id": 533,
+            "name": "Defeat a Bloodveld in Tirannwn"
+        },
+        {
+            "id": 537,
+            "name": "Defeat a Kurask in Tirannwn"
+        },
+        {
+            "id": 529,
+            "name": "Defeat an Elf in Tirannwn"
+        },
+        {
+            "id": 516,
+            "name": "Harvest Some Sweetcorn in Prifddinas"
+        },
+        {
+            "id": 1387,
+            "name": "Kill a Black Dragon in Tirannwn"
+        },
+        {
+            "id": 1578,
+            "name": "Mine 25 gold rocks in Tirannwn"
+        },
+        {
+            "id": 527,
+            "name": "Move Your House to Prifddinas"
+        },
+        {
+            "id": 1766,
+            "name": "Pick up 10 Whiteberries in Tirannwn"
+        },
+        {
+            "id": 1301,
+            "name": "Ring all of the Prifddinas bells"
+        },
+        {
+            "id": 1767,
+            "name": "Successfully hop over the Tripwire in Tirannwn"
+        },
+        {
+            "id": 1768,
+            "name": "Thieve a Diamond from a Gem Stall in Tirannwn"
+        },
+        {
+            "id": 1769,
+            "name": "Thieve a tiara from a Silver Stall in Tirannwn"
+        },
+        {
+            "id": 557,
+            "name": "Use an Elven Teleport Crystal"
+        },
+        {
+            "id": 1743,
+            "name": "1 Amoxliatl Kill"
+        },
+        {
+            "id": 1730,
+            "name": "1 Hueycoatl Kill"
+        },
+        {
+            "id": 1753,
+            "name": "Activate the Statue of Ates"
+        },
+        {
+            "id": 1652,
+            "name": "Build a Quetzal Landing Site"
+        },
+        {
+            "id": 1658,
+            "name": "Complete 10 Hunter Rumours"
+        },
+        {
+            "id": 1746,
+            "name": "Complete 10 laps of the Varlamore Agility Course"
+        },
+        {
+            "id": 1659,
+            "name": "Complete 25 Hunter Rumours"
+        },
+        {
+            "id": 1657,
+            "name": "Complete a Hunter Rumour"
+        },
+        {
+            "id": 1721,
+            "name": "Complete Meat and Greet"
+        },
+        {
+            "id": 1664,
+            "name": "Complete Wave 1 of Fortis Colosseum"
+        },
+        {
+            "id": 1656,
+            "name": "Create a Quetzal Whistle"
+        },
+        {
+            "id": 1740,
+            "name": "Equip a piece of Alchemists outfit"
+        },
+        {
+            "id": 1677,
+            "name": "Equip a piece of Blood Moon armour"
+        },
+        {
+            "id": 1681,
+            "name": "Equip a piece of Blue Moon armour"
+        },
+        {
+            "id": 1679,
+            "name": "Equip a piece of Eclipse Moon armour"
+        },
+        {
+            "id": 1733,
+            "name": "Equip a piece of Hueycoatl armour"
+        },
+        {
+            "id": 1741,
+            "name": "Equip Pendant of Ates"
+        },
+        {
+            "id": 1779,
+            "name": "Fill a Grape Barrel for the Foreman"
+        },
+        {
+            "id": 1701,
+            "name": "Fish a House Key"
+        },
+        {
+            "id": 1751,
+            "name": "Give a Dwarf Redberry Antelope"
+        },
+        {
+            "id": 1778,
+            "name": "Investigate Meztlan"
+        },
+        {
+            "id": 1752,
+            "name": "Kill 10 Frost Crabs"
+        },
+        {
+            "id": 1750,
+            "name": "Kill a Dire Wolf"
+        },
+        {
+            "id": 1694,
+            "name": "Mine 20 Mithril Ore in the Stonecutter Outpost"
+        },
+        {
+            "id": 1691,
+            "name": "Mine 250 Blessed Bone Shards"
+        },
+        {
+            "id": 1690,
+            "name": "Mine a Calcified Deposit"
+        },
+        {
+            "id": 1782,
+            "name": "Obtain a Cake from a Nest"
+        },
+        {
+            "id": 1709,
+            "name": "Open an Adept Hunter's Loot Sack"
+        },
+        {
+            "id": 1702,
+            "name": "Pay an Urchin for Information"
+        },
+        {
+            "id": 1705,
+            "name": "Steal 100 Valuables"
+        },
+        {
+            "id": 1700,
+            "name": "Steal 15 House Keys"
+        },
+        {
+            "id": 1704,
+            "name": "Steal 25 Valuables"
+        },
+        {
+            "id": 1699,
+            "name": "Steal a House Key"
+        },
+        {
+            "id": 1698,
+            "name": "Steal from the Fortis Spice Stall"
+        },
+        {
+            "id": 1685,
+            "name": "Subdue the Moons of Peril"
+        },
+        {
+            "id": 1686,
+            "name": "Subdue the Moons of Peril 10 times"
+        },
+        {
+            "id": 1687,
+            "name": "Subdue the Moons of Peril 25 times"
+        },
+        {
+            "id": 1692,
+            "name": "Teleport to Cam Torum using a Calcified Moth"
+        },
+        {
+            "id": 1654,
+            "name": "Teleport to Civitas illa Fortis"
+        },
+        {
+            "id": 1655,
+            "name": "Teleport to the Fortis Colosseum"
+        },
+        {
+            "id": 971,
+            "name": "Bury Some Lava Dragon Bones"
+        },
+        {
+            "id": 1024,
+            "name": "Cast Claws of Guthix"
+        },
+        {
+            "id": 1025,
+            "name": "Cast Flames of Zamorak"
+        },
+        {
+            "id": 1023,
+            "name": "Cast Saradomin Strike"
+        },
+        {
+            "id": 977,
+            "name": "Catch a Black Chinchompa"
+        },
+        {
+            "id": 976,
+            "name": "Catch a Black Salamander"
+        },
+        {
+            "id": 1026,
+            "name": "Complete the Easy Wilderness Diary"
+        },
+        {
+            "id": 1027,
+            "name": "Complete the Medium Wilderness Diary"
+        },
+        {
+            "id": 975,
+            "name": "Complete the Wilderness Agility Course"
+        },
+        {
+            "id": 998,
+            "name": "Defeat a Green Dragon in the Wilderness"
+        },
+        {
+            "id": 986,
+            "name": "Defeat a Lava Dragon in the Wilderness"
+        },
+        {
+            "id": 995,
+            "name": "Defeat the Chaos Fanatic"
+        },
+        {
+            "id": 987,
+            "name": "Defeat the Crazy Archaeologist"
+        },
+        {
+            "id": 1296,
+            "name": "Destroy the one ring to rule them all"
+        },
+        {
+            "id": 1036,
+            "name": "Enter the Deep Wilderness Dungeon"
+        },
+        {
+            "id": 1014,
+            "name": "Equip a Bracelet of Ethereum"
+        },
+        {
+            "id": 1001,
+            "name": "Equip a Fedora"
+        },
+        {
+            "id": 1021,
+            "name": "Equip a God Cape"
+        },
+        {
+            "id": 1011,
+            "name": "Obtain an Ecumenical Key"
+        },
+        {
+            "id": 1343,
+            "name": "Open 1 Muddy Chest"
+        },
+        {
+            "id": 1644,
+            "name": "Open 1 Zombie Pirate Locker"
+        },
+        {
+            "id": 1341,
+            "name": "Open 15 Larran's Chests"
+        },
+        {
+            "id": 1039,
+            "name": "Open One of Larran's Chests"
+        },
+        {
+            "id": 1017,
+            "name": "Order a Drink at The Old Nite"
+        },
+        {
+            "id": 969,
+            "name": "Sacrifice Some Bones at the Chaos Temple"
+        },
+        {
+            "id": 982,
+            "name": "Use the Abyss"
+        },
+        {
+            "id": 164,
+            "name": "1 Master Clue Scroll"
+        },
+        {
+            "id": 1452,
+            "name": "100 Collection log slots"
+        },
+        {
+            "id": 99,
+            "name": "100 Superior Slayer Encounters"
+        },
+        {
+            "id": 1453,
+            "name": "200 Collection log slots"
+        },
+        {
+            "id": 165,
+            "name": "25 Master Clue Scrolls"
+        },
+        {
+            "id": 162,
+            "name": "75 Elite Clue Scrolls"
+        },
+        {
+            "id": 158,
+            "name": "75 Hard Clue Scrolls"
+        },
+        {
+            "id": 199,
+            "name": "Achieve Your First Level 70"
+        },
+        {
+            "id": 200,
+            "name": "Achieve Your First Level 80"
+        },
+        {
+            "id": 1539,
+            "name": "Beat Jacky Jester"
+        },
+        {
+            "id": 1353,
+            "name": "Blow 100 Light Orbs"
+        },
+        {
+            "id": 570,
+            "name": "Build a Gilded Altar"
+        },
+        {
+            "id": 377,
+            "name": "Burn 100 Yew Logs"
+        },
+        {
+            "id": 378,
+            "name": "Burn Some Magic Logs"
+        },
+        {
+            "id": 438,
+            "name": "Cast a Surge Spell"
+        },
+        {
+            "id": 437,
+            "name": "Cast a Wave Spell"
+        },
+        {
+            "id": 346,
+            "name": "Catch 100 Shark"
+        },
+        {
+            "id": 1615,
+            "name": "Catch 50 Grey Chinchompas"
+        },
+        {
+            "id": 384,
+            "name": "Catch a Dragon Impling"
+        },
+        {
+            "id": 1822,
+            "name": "Chop 100 Yew Logs"
+        },
+        {
+            "id": 295,
+            "name": "Chop 75 Magic Logs"
+        },
+        {
+            "id": 1787,
+            "name": "Clean 100 Grimy Avantoe"
+        },
+        {
+            "id": 1789,
+            "name": "Clean 50 Grimy Lantadyme"
+        },
+        {
+            "id": 1119,
+            "name": "Combat Achievements Easy Tier"
+        },
+        {
+            "id": 1413,
+            "name": "Complete 1 Speed Task"
+        },
+        {
+            "id": 1414,
+            "name": "Complete 5 Speed Tasks"
+        },
+        {
+            "id": 1209,
+            "name": "Complete 50 Mahogany homes contracts"
+        },
+        {
+            "id": 1206,
+            "name": "Complete a Mahogany homes expert contract"
+        },
+        {
+            "id": 765,
+            "name": "Complete the Hard Western Provinces Diary"
+        },
+        {
+            "id": 1347,
+            "name": "Cook 100 pies"
+        },
+        {
+            "id": 302,
+            "name": "Cook 100 Sharks"
+        },
+        {
+            "id": 1348,
+            "name": "Cook 20 Redberry Pies"
+        },
+        {
+            "id": 334,
+            "name": "Craft 100 Unpowered Orbs"
+        },
+        {
+            "id": 370,
+            "name": "Craft 2500 Essence Into Runes"
+        },
+        {
+            "id": 338,
+            "name": "Craft 30 Blue Dragonhide Bodies"
+        },
+        {
+            "id": 337,
+            "name": "Craft a Dragonstone Amulet"
+        },
+        {
+            "id": 1352,
+            "name": "Create a black d'hide shield"
+        },
+        {
+            "id": 314,
+            "name": "Create a Mithril Grapple"
+        },
+        {
+            "id": 326,
+            "name": "Defeat 10 Superior Slayer Creatures"
+        },
+        {
+            "id": 327,
+            "name": "Defeat 20 Superior Slayer Creatures"
+        },
+        {
+            "id": 436,
+            "name": "Equip a Combination Battlestaff or Mystic Staff"
+        },
+        {
+            "id": 1002,
+            "name": "Equip a Dragon Pickaxe"
+        },
+        {
+            "id": 415,
+            "name": "Equip a Dragon Weapon"
+        },
+        {
+            "id": 425,
+            "name": "Equip a Full Black Dragonhide Set"
+        },
+        {
+            "id": 20,
+            "name": "Equip a Full God Dragonhide Set"
+        },
+        {
+            "id": 17,
+            "name": "Equip a Full God Rune Set"
+        },
+        {
+            "id": 419,
+            "name": "Equip a Full Rune Set"
+        },
+        {
+            "id": 13,
+            "name": "Equip a Full Vestment Set"
+        },
+        {
+            "id": 12,
+            "name": "Equip a Gilded or Trimmed Wizard Item"
+        },
+        {
+            "id": 428,
+            "name": "Equip a Magic Shortbow"
+        },
+        {
+            "id": 125,
+            "name": "Equip a Mist Battlestaff"
+        },
+        {
+            "id": 429,
+            "name": "Equip a Rune Crossbow"
+        },
+        {
+            "id": 1520,
+            "name": "Equip a two-handed Axe"
+        },
+        {
+            "id": 23,
+            "name": "Equip an Ornament Kit Item"
+        },
+        {
+            "id": 1793,
+            "name": "Equip one unique Echo Item"
+        },
+        {
+            "id": 25,
+            "name": "Equip Some Ranger Boots"
+        },
+        {
+            "id": 1795,
+            "name": "Equip three unique Echo Items"
+        },
+        {
+            "id": 1794,
+            "name": "Equip two unique Echo Items"
+        },
+        {
+            "id": 299,
+            "name": "Ferment 100 Jugs of Wine"
+        },
+        {
+            "id": 40,
+            "name": "Fill 10 Beginner Clue Collection Log Slots"
+        },
+        {
+            "id": 28,
+            "name": "Fill 10 Elite Clue Collection Log Slots"
+        },
+        {
+            "id": 8,
+            "name": "Fill 25 Elite Clue Collection Log Slots"
+        },
+        {
+            "id": 30,
+            "name": "Fill 30 Hard Clue Collection Log Slots"
+        },
+        {
+            "id": 31,
+            "name": "Fill 40 Medium Clue Collection Log Slots"
+        },
+        {
+            "id": 9,
+            "name": "Fill 5 Master Clue Collection Log Slots"
+        },
+        {
+            "id": 36,
+            "name": "Fill 50 Easy Clue Collection Log Slots"
+        },
+        {
+            "id": 984,
+            "name": "Fill a Giant Pouch"
+        },
+        {
+            "id": 362,
+            "name": "Fill a Hard STASH Unit"
+        },
+        {
+            "id": 1360,
+            "name": "Fletch 200 Magic Longbow (u)"
+        },
+        {
+            "id": 1361,
+            "name": "Fletch a Magic Shield"
+        },
+        {
+            "id": 317,
+            "name": "Fletch a Rune Crossbow"
+        },
+        {
+            "id": 43,
+            "name": "Gain 10 Unique Items From Elite Clues"
+        },
+        {
+            "id": 41,
+            "name": "Gain 10 Unique Items From Master Clues"
+        },
+        {
+            "id": 47,
+            "name": "Gain 25 Unique Items From Medium Clues"
+        },
+        {
+            "id": 51,
+            "name": "Gain 35 Unique Items From Beginner Clues"
+        },
+        {
+            "id": 46,
+            "name": "Gain 50 Unique Items From Hard Clues"
+        },
+        {
+            "id": 56,
+            "name": "Gain a Unique Item From an Elite Clue"
+        },
+        {
+            "id": 1790,
+            "name": "Kill 1 unique Echo Boss"
+        },
+        {
+            "id": 1791,
+            "name": "Kill 2 unique Echo Bosses"
+        },
+        {
+            "id": 1792,
+            "name": "Kill 3 unique Echo Bosses"
+        },
+        {
+            "id": 777,
+            "name": "Make 20 Ranging Potions"
+        },
+        {
+            "id": 397,
+            "name": "Make a Saradomin Brew"
+        },
+        {
+            "id": 309,
+            "name": "Mine 50 Adamantite Ore"
+        },
+        {
+            "id": 1210,
+            "name": "Mine a shooting star"
+        },
+        {
+            "id": 1619,
+            "name": "Obtain a Kebab from the Certer Brothers"
+        },
+        {
+            "id": 1391,
+            "name": "Obtain a Magic seed from a birds nest"
+        },
+        {
+            "id": 66,
+            "name": "Reach a Prayer Bonus of 30"
+        },
+        {
+            "id": 219,
+            "name": "Reach Base Level 40"
+        },
+        {
+            "id": 220,
+            "name": "Reach Base Level 50"
+        },
+        {
+            "id": 221,
+            "name": "Reach Base Level 60"
+        },
+        {
+            "id": 222,
+            "name": "Reach Base Level 70"
+        },
+        {
+            "id": 405,
+            "name": "Reach Combat Level 100"
+        },
+        {
+            "id": 406,
+            "name": "Reach Combat Level 110"
+        },
+        {
+            "id": 207,
+            "name": "Reach Total Level 1000"
+        },
+        {
+            "id": 208,
+            "name": "Reach Total Level 1250"
+        },
+        {
+            "id": 209,
+            "name": "Reach Total Level 1500"
+        },
+        {
+            "id": 210,
+            "name": "Reach Total Level 1750"
+        },
+        {
+            "id": 65,
+            "name": "Restore 75 Prayer Points at an Altar"
+        },
+        {
+            "id": 354,
+            "name": "Smelt a Runite Bar"
+        },
+        {
+            "id": 1265,
+            "name": "Smith a Rune Item"
+        },
+        {
+            "id": 279,
+            "name": "Steal From a Gem Stall"
+        },
+        {
+            "id": 829,
+            "name": "Complete a Game of Veteran Pest Control"
+        },
+        {
+            "id": 819,
+            "name": "Complete A Porcine of Interest"
+        },
+        {
+            "id": 817,
+            "name": "Complete the Hard Falador Diary"
+        },
+        {
+            "id": 776,
+            "name": "Craft 50 Law Runes"
+        },
+        {
+            "id": 809,
+            "name": "Defeat Any God Wars Dungeon Boss 100 Times"
+        },
+        {
+            "id": 810,
+            "name": "Defeat Any God Wars Dungeon Boss 250 Times"
+        },
+        {
+            "id": 807,
+            "name": "Defeat Cerberus"
+        },
+        {
+            "id": 1393,
+            "name": "Defeat Cerberus 150 times"
+        },
+        {
+            "id": 1392,
+            "name": "Defeat Cerberus 50 times"
+        },
+        {
+            "id": 801,
+            "name": "Defeat Commander Zilyana"
+        },
+        {
+            "id": 793,
+            "name": "Defeat General Graardor"
+        },
+        {
+            "id": 788,
+            "name": "Defeat K'ril Tsutsaroth"
+        },
+        {
+            "id": 797,
+            "name": "Defeat Kree'arra"
+        },
+        {
+            "id": 1156,
+            "name": "Defeat Nex"
+        },
+        {
+            "id": 1158,
+            "name": "Defeat Nex 150 Times"
+        },
+        {
+            "id": 1157,
+            "name": "Defeat Nex 50 Times"
+        },
+        {
+            "id": 814,
+            "name": "Defeat the Giant Mole 300 Times"
+        },
+        {
+            "id": 1171,
+            "name": "Defeat Whisperer"
+        },
+        {
+            "id": 1173,
+            "name": "Defeat Whisperer 150 times"
+        },
+        {
+            "id": 1172,
+            "name": "Defeat Whisperer 50 times"
+        },
+        {
+            "id": 783,
+            "name": "Equip a Dragon Defender"
+        },
+        {
+            "id": 772,
+            "name": "Equip a Full Prospector Outfit"
+        },
+        {
+            "id": 770,
+            "name": "Equip a Full Rogue Outfit"
+        },
+        {
+            "id": 820,
+            "name": "Equip a Full Void Knight Set"
+        },
+        {
+            "id": 808,
+            "name": "Equip a Pair of Dragon Boots"
+        },
+        {
+            "id": 1139,
+            "name": "Equip a Piece of the Golden Prospector set"
+        },
+        {
+            "id": 794,
+            "name": "Equip a Saradomin Sword"
+        },
+        {
+            "id": 1164,
+            "name": "Equip some Zaryte Vambraces"
+        },
+        {
+            "id": 826,
+            "name": "Keep the Veteran Void Knight Above 150 Hitpoints"
+        },
+        {
+            "id": 1137,
+            "name": "Purchase a Celestial ring"
+        },
+        {
+            "id": 1086,
+            "name": "25 Tempoross Kills"
+        },
+        {
+            "id": 869,
+            "name": "Cast Ice Blitz"
+        },
+        {
+            "id": 866,
+            "name": "Cast Ice Burst"
+        },
+        {
+            "id": 858,
+            "name": "Check a grown Potato Cactus"
+        },
+        {
+            "id": 1408,
+            "name": "Complete Beneath Cursed Sands"
+        },
+        {
+            "id": 879,
+            "name": "Complete the Hard Desert Diary"
+        },
+        {
+            "id": 1186,
+            "name": "Complete Tombs of Amascut"
+        },
+        {
+            "id": 1187,
+            "name": "Complete Tombs of Amascut 25 times"
+        },
+        {
+            "id": 1240,
+            "name": "Create the Colossal Rune Pouch"
+        },
+        {
+            "id": 1176,
+            "name": "Defeat Leviathan"
+        },
+        {
+            "id": 1178,
+            "name": "Defeat Leviathan 150 times"
+        },
+        {
+            "id": 1177,
+            "name": "Defeat Leviathan 50 times"
+        },
+        {
+            "id": 864,
+            "name": "Defeat the Kalphite Queen"
+        },
+        {
+            "id": 875,
+            "name": "Defeat the Kalphite Queen 150 Times"
+        },
+        {
+            "id": 874,
+            "name": "Defeat the Kalphite Queen 50 Times"
+        },
+        {
+            "id": 876,
+            "name": "Equip a Dragon 2-Handed Sword"
+        },
+        {
+            "id": 1246,
+            "name": "Equip a full set of the Smith's outfit"
+        },
+        {
+            "id": 1241,
+            "name": "Equip the Abyssal Lantern"
+        },
+        {
+            "id": 1235,
+            "name": "Equip the Lightbearer"
+        },
+        {
+            "id": 1213,
+            "name": "Giants' Foundry 150 quality sword"
+        },
+        {
+            "id": 1215,
+            "name": "Giants' Foundry 25 handins"
+        },
+        {
+            "id": 1216,
+            "name": "Giants' Foundry 50 handins"
+        },
+        {
+            "id": 1192,
+            "name": "Guardians of the Rift 25 Rifts closed"
+        },
+        {
+            "id": 1573,
+            "name": "Have Drew create 500 buckets"
+        },
+        {
+            "id": 856,
+            "name": "Make 20 Magic Potions"
+        },
+        {
+            "id": 1340,
+            "name": "Make 50 Menaphite Remedies"
+        },
+        {
+            "id": 1248,
+            "name": "Obtain the Fish Barrel"
+        },
+        {
+            "id": 845,
+            "name": "Pick a Summer Sq'irk"
+        },
+        {
+            "id": 851,
+            "name": "Pickpocket a Menaphite Thug 50 Times"
+        },
+        {
+            "id": 837,
+            "name": "Room 7 of Pyramid Plunder"
+        },
+        {
+            "id": 838,
+            "name": "Room 8 of Pyramid Plunder"
+        },
+        {
+            "id": 839,
+            "name": "Room 8 of Pyramid Plunder 25 Times"
+        },
+        {
+            "id": 353,
+            "name": "Smith 1,000 Adamant Dart Tips"
+        },
+        {
+            "id": 848,
+            "name": "Turn in 25 Autumn Sq'irkjuices to Osman"
+        },
+        {
+            "id": 1804,
+            "name": "Blast Furnace 100 Mithril Bars"
+        },
+        {
+            "id": 566,
+            "name": "Cast Moonclan Teleport"
+        },
+        {
+            "id": 568,
+            "name": "Cast Spellbook Swap"
+        },
+        {
+            "id": 629,
+            "name": "Collect Miscellania Resources at Full Approval"
+        },
+        {
+            "id": 1806,
+            "name": "Complete 25 laps of the Rellekka Agility Course"
+        },
+        {
+            "id": 625,
+            "name": "Complete the Hard Fremennik Diary"
+        },
+        {
+            "id": 575,
+            "name": "Complete the Rellekka Agility Course"
+        },
+        {
+            "id": 582,
+            "name": "Create a Catherby Teleport Tablet"
+        },
+        {
+            "id": 584,
+            "name": "Defeat a Basilisk Knight"
+        },
+        {
+            "id": 468,
+            "name": "Defeat a Rune Dragon"
+        },
+        {
+            "id": 1181,
+            "name": "Defeat Duke Sucellus"
+        },
+        {
+            "id": 1183,
+            "name": "Defeat Duke Sucellus 150 times"
+        },
+        {
+            "id": 1182,
+            "name": "Defeat Duke Sucellus 50 times"
+        },
+        {
+            "id": 614,
+            "name": "Defeat Each Dagannoth King 150 Times"
+        },
+        {
+            "id": 613,
+            "name": "Defeat Each Dagannoth King 50 Times"
+        },
+        {
+            "id": 1193,
+            "name": "Defeat Phantom Muspah"
+        },
+        {
+            "id": 1195,
+            "name": "Defeat Phantom Muspah 150 times"
+        },
+        {
+            "id": 1194,
+            "name": "Defeat Phantom Muspah 50 times"
+        },
+        {
+            "id": 596,
+            "name": "Defeat the Dagannoth Kings Without Leaving"
+        },
+        {
+            "id": 585,
+            "name": "Defeat Vorkath"
+        },
+        {
+            "id": 609,
+            "name": "Defeat Vorkath 150 Times"
+        },
+        {
+            "id": 608,
+            "name": "Defeat Vorkath 50 Times"
+        },
+        {
+            "id": 599,
+            "name": "Equip a Berserker Ring"
+        },
+        {
+            "id": 595,
+            "name": "Equip a Brine Sabre"
+        },
+        {
+            "id": 622,
+            "name": "Equip a Full Rockshell Armour Set"
+        },
+        {
+            "id": 620,
+            "name": "Equip a Full Skeletal Armour Set"
+        },
+        {
+            "id": 621,
+            "name": "Equip a Full Spined Armour Set"
+        },
+        {
+            "id": 619,
+            "name": "Equip a Leaf-Bladed Battleaxe"
+        },
+        {
+            "id": 617,
+            "name": "Equip a Mud Battlestaff"
+        },
+        {
+            "id": 604,
+            "name": "Equip a Seer's Ring"
+        },
+        {
+            "id": 618,
+            "name": "Equip a Seercull"
+        },
+        {
+            "id": 601,
+            "name": "Equip a Warrior Ring"
+        },
+        {
+            "id": 607,
+            "name": "Equip an Archer's Ring"
+        },
+        {
+            "id": 590,
+            "name": "Equip an Ava's Assembler"
+        },
+        {
+            "id": 1227,
+            "name": "Equip the Ancient Sceptre"
+        },
+        {
+            "id": 576,
+            "name": "Harvest a Snapdragon in Weiss"
+        },
+        {
+            "id": 1840,
+            "name": "Kill a Rock Lobster"
+        },
+        {
+            "id": 1803,
+            "name": "Obtain a Frozen Cache from a Cache"
+        },
+        {
+            "id": 1551,
+            "name": "Trade with Bardur"
+        },
+        {
+            "id": 578,
+            "name": "Trap a Sabre-toothed Kyatt"
+        },
+        {
+            "id": 581,
+            "name": "Use Your Portal Nexus to Teleport to Weiss"
+        },
+        {
+            "id": 702,
+            "name": "Check a grown Papaya Tree in the Gnome Stronghold"
+        },
+        {
+            "id": 744,
+            "name": "Complete Elemental Workshop II"
+        },
+        {
+            "id": 1516,
+            "name": "Complete Path of Glouphrie"
+        },
+        {
+            "id": 1055,
+            "name": "Complete the Hard Ardougne Diary"
+        },
+        {
+            "id": 761,
+            "name": "Complete the Hard Kandarin Diary"
+        },
+        {
+            "id": 688,
+            "name": "Complete the Seers' Village Agility Course"
+        },
+        {
+            "id": 731,
+            "name": "Defeat 150 Demonic Gorillas"
+        },
+        {
+            "id": 718,
+            "name": "Defeat a Cave Kraken"
+        },
+        {
+            "id": 706,
+            "name": "Defeat a Demonic Gorilla"
+        },
+        {
+            "id": 705,
+            "name": "Defeat a Mithril Dragon"
+        },
+        {
+            "id": 707,
+            "name": "Defeat a Smoke Devil"
+        },
+        {
+            "id": 729,
+            "name": "Defeat the Kraken Boss 150 Times"
+        },
+        {
+            "id": 728,
+            "name": "Defeat the Kraken Boss 50 Times"
+        },
+        {
+            "id": 748,
+            "name": "Defeat the Penance Queen"
+        },
+        {
+            "id": 699,
+            "name": "Equip a Full Angler's Outfit"
+        },
+        {
+            "id": 755,
+            "name": "Equip a Karamja Monkey Backpack"
+        },
+        {
+            "id": 722,
+            "name": "Equip a Trident of the Seas"
+        },
+        {
+            "id": 1515,
+            "name": "Equip a Warped Sceptre"
+        },
+        {
+            "id": 751,
+            "name": "Equip an Ogre Expert Chompy Hat"
+        },
+        {
+            "id": 1517,
+            "name": "Feed Longramble"
+        },
+        {
+            "id": 700,
+            "name": "Fletch 100 Maple Longbow (u) in Kandarin"
+        },
+        {
+            "id": 1536,
+            "name": "Get 750 Target points"
+        },
+        {
+            "id": 1439,
+            "name": "Kill a Frogeel"
+        },
+        {
+            "id": 1440,
+            "name": "Kill a Jubster"
+        },
+        {
+            "id": 685,
+            "name": "Pickpocket a Hero"
+        },
+        {
+            "id": 1541,
+            "name": "Pickpocket a King Worm"
+        },
+        {
+            "id": 1446,
+            "name": "Score a Goal in Gnomeball"
+        },
+        {
+            "id": 1814,
+            "name": "Trade in 1000 Minnows"
+        },
+        {
+            "id": 1303,
+            "name": "Trade in a cat for death runes"
+        },
+        {
+            "id": 726,
+            "name": "Use the Chivalry Prayer"
+        },
+        {
+            "id": 647,
+            "name": "Check a grown Calquat Tree"
+        },
+        {
+            "id": 673,
+            "name": "Complete the Hard Karamja Diary"
+        },
+        {
+            "id": 1197,
+            "name": "Complete Tzhaar-Ket-Rak's first challenge"
+        },
+        {
+            "id": 1198,
+            "name": "Complete Tzhaar-Ket-Rak's second challenge"
+        },
+        {
+            "id": 1199,
+            "name": "Complete Tzhaar-Ket-Rak's third challenge"
+        },
+        {
+            "id": 637,
+            "name": "Cook 100 Karambwans"
+        },
+        {
+            "id": 1395,
+            "name": "Cook 20 Karambwans in a row"
+        },
+        {
+            "id": 652,
+            "name": "Equip a Full Obsidian Armour Set"
+        },
+        {
+            "id": 677,
+            "name": "Equip a Red Topaz Machete"
+        },
+        {
+            "id": 660,
+            "name": "Equip Some Dragon Platelegs or a Dragon Plateskirt"
+        },
+        {
+            "id": 681,
+            "name": "Find a Gout Tuber"
+        },
+        {
+            "id": 641,
+            "name": "Receive 30 Agility Arena Tickets With No Mistakes"
+        },
+        {
+            "id": 657,
+            "name": "Survive a Hit From TzTok-Jad Without Prayer"
+        },
+        {
+            "id": 110,
+            "name": "1 Alchemical Hydra Kill"
+        },
+        {
+            "id": 114,
+            "name": "1 Chambers of Xeric"
+        },
+        {
+            "id": 168,
+            "name": "1 Mimic Kill"
+        },
+        {
+            "id": 107,
+            "name": "1 Skotizo Kill"
+        },
+        {
+            "id": 108,
+            "name": "10 Skotizo Kills"
+        },
+        {
+            "id": 112,
+            "name": "150 Alchemical Hydra Kills"
+        },
+        {
+            "id": 105,
+            "name": "150 Sarachnis Kills"
+        },
+        {
+            "id": 115,
+            "name": "25 Chambers of Xeric"
+        },
+        {
+            "id": 102,
+            "name": "300 Lizardmen Shaman Kills"
+        },
+        {
+            "id": 106,
+            "name": "300 Sarachnis Kills"
+        },
+        {
+            "id": 169,
+            "name": "5 Mimic Kills"
+        },
+        {
+            "id": 111,
+            "name": "50 Alchemical Hydra Kills"
+        },
+        {
+            "id": 116,
+            "name": "50 Chambers of Xeric"
+        },
+        {
+            "id": 70,
+            "name": "50 Wintertodt Kills"
+        },
+        {
+            "id": 1062,
+            "name": "Activate an Arcane or Dexterous Prayer Scroll"
+        },
+        {
+            "id": 1356,
+            "name": "Burn 200 Redwood Logs"
+        },
+        {
+            "id": 1266,
+            "name": "Chop 200 Redwood Logs"
+        },
+        {
+            "id": 73,
+            "name": "Complete 50 Farming Contracts"
+        },
+        {
+            "id": 1605,
+            "name": "Complete the Shayzien Advanced Agility Course"
+        },
+        {
+            "id": 1603,
+            "name": "Craft 100 Blood runes"
+        },
+        {
+            "id": 1635,
+            "name": "Create 10 Dynamite"
+        },
+        {
+            "id": 1639,
+            "name": "Defeat a Gang Boss"
+        },
+        {
+            "id": 82,
+            "name": "Enter the Farming Guild's High Tier"
+        },
+        {
+            "id": 130,
+            "name": "Equip a Brimstone Ring"
+        },
+        {
+            "id": 124,
+            "name": "Equip a Dust Battlestaff"
+        },
+        {
+            "id": 186,
+            "name": "Equip a Fish Sack"
+        },
+        {
+            "id": 1068,
+            "name": "Equip a Sarachnis Cudgel"
+        },
+        {
+            "id": 123,
+            "name": "Equip Boots of Brimstone"
+        },
+        {
+            "id": 128,
+            "name": "Equip Ferocious Gloves"
+        },
+        {
+            "id": 183,
+            "name": "Equip the Pyromancer's Garb"
+        },
+        {
+            "id": 175,
+            "name": "Equip Tier 5 Shayzien Armour"
+        },
+        {
+            "id": 1362,
+            "name": "Fletch a Redwood Shield"
+        },
+        {
+            "id": 1633,
+            "name": "Harvest 25 Zamorak's Grapes"
+        },
+        {
+            "id": 137,
+            "name": "Kourend and Kebos Hard Diary Tasks"
+        },
+        {
+            "id": 89,
+            "name": "Obtain Runite Ore at the Blast Mine"
+        },
+        {
+            "id": 78,
+            "name": "Plant 100 Bologano Seeds"
+        },
+        {
+            "id": 79,
+            "name": "Plant 100 Logavano Seeds"
+        },
+        {
+            "id": 1263,
+            "name": "Plant an Anima Seed"
+        },
+        {
+            "id": 443,
+            "name": "Catch a Herbiboar 50 Times"
+        },
+        {
+            "id": 452,
+            "name": "Check a grown Magic Tree in Lumbridge"
+        },
+        {
+            "id": 490,
+            "name": "Complete the Hard Lumbridge &amp;Draynor Diary"
+        },
+        {
+            "id": 1049,
+            "name": "Complete the Hard Varrock Diary"
+        },
+        {
+            "id": 1758,
+            "name": "Defeat 150 Tormented Demons"
+        },
+        {
+            "id": 1759,
+            "name": "Defeat 300 Tormented Demons"
+        },
+        {
+            "id": 480,
+            "name": "Defeat the Abyssal Sire"
+        },
+        {
+            "id": 473,
+            "name": "Equip a Hill Giant Club"
+        },
+        {
+            "id": 1761,
+            "name": "Equip a Tormented Weapon"
+        },
+        {
+            "id": 1742,
+            "name": "Equip a Zombie Axe"
+        },
+        {
+            "id": 477,
+            "name": "Equip Bryophyta's Staff"
+        },
+        {
+            "id": 1760,
+            "name": "Equip Burning claws"
+        },
+        {
+            "id": 484,
+            "name": "Offer an Unsired to the Font of Consumption"
+        },
+        {
+            "id": 1641,
+            "name": "Scurrius Combat Achievements"
+        },
+        {
+            "id": 440,
+            "name": "Set up a Magic Bird House"
+        },
+        {
+            "id": 464,
+            "name": "Use Enriched Bones on the Strange Machine"
+        },
+        {
+            "id": 1723,
+            "name": "1 Araxxor Kill"
+        },
+        {
+            "id": 1725,
+            "name": "150 Araxxor Kills"
+        },
+        {
+            "id": 1724,
+            "name": "50 Araxxor Kills"
+        },
+        {
+            "id": 1355,
+            "name": "Burn 20 Blisterwood Logs"
+        },
+        {
+            "id": 960,
+            "name": "Complete Haunted Mine"
+        },
+        {
+            "id": 961,
+            "name": "Complete Sins of the Father"
+        },
+        {
+            "id": 954,
+            "name": "Complete the Hard Morytania Diary"
+        },
+        {
+            "id": 1587,
+            "name": "Cook 20 Sharks in Darkmeyer"
+        },
+        {
+            "id": 939,
+            "name": "Create an Amulet of Blood Fury"
+        },
+        {
+            "id": 1078,
+            "name": "Defeat Phosani's Nightmare"
+        },
+        {
+            "id": 949,
+            "name": "Defeat the Grotesque Guardians"
+        },
+        {
+            "id": 951,
+            "name": "Defeat the Grotesque Guardians 150 Times"
+        },
+        {
+            "id": 950,
+            "name": "Defeat the Grotesque Guardians 50 Times"
+        },
+        {
+            "id": 919,
+            "name": "Defeat The Nightmare"
+        },
+        {
+            "id": 1079,
+            "name": "Defeat The Nightmare 25 times"
+        },
+        {
+            "id": 1129,
+            "name": "Equip a Full Set of Zealot's Robes"
+        },
+        {
+            "id": 937,
+            "name": "Equip a Nightmare Staff"
+        },
+        {
+            "id": 940,
+            "name": "Equip an Avernic Defender"
+        },
+        {
+            "id": 930,
+            "name": "Equip any Full Barrows Armour Set"
+        },
+        {
+            "id": 1729,
+            "name": "Equip Aranea Boots"
+        },
+        {
+            "id": 1506,
+            "name": "Equip Full Ahrims Armour Set"
+        },
+        {
+            "id": 1508,
+            "name": "Equip Full Dharoks Armour Set"
+        },
+        {
+            "id": 1507,
+            "name": "Equip Full Guthans Armour Set"
+        },
+        {
+            "id": 1511,
+            "name": "Equip Full Karils Armour Set"
+        },
+        {
+            "id": 1510,
+            "name": "Equip Full Torags Armour Set"
+        },
+        {
+            "id": 1509,
+            "name": "Equip Full Veracs Armour Set"
+        },
+        {
+            "id": 901,
+            "name": "Floor 4 of the Hallowed Sepulchre"
+        },
+        {
+            "id": 907,
+            "name": "Obtain Every Hallowed Tool"
+        },
+        {
+            "id": 1132,
+            "name": "Open a Gold Chest"
+        },
+        {
+            "id": 911,
+            "name": "Pickpocket a Vyre 50 Times"
+        },
+        {
+            "id": 1322,
+            "name": "Unlock permanent boat travel with Andras"
+        },
+        {
+            "id": 518,
+            "name": "Check a grown Crystal Tree"
+        },
+        {
+            "id": 1385,
+            "name": "Chop 100 Teak Logs in Prifddinas"
+        },
+        {
+            "id": 1765,
+            "name": "Chop 50 Magic Logs in Tirannwn"
+        },
+        {
+            "id": 1384,
+            "name": "Complete 50 laps of the Prifddinas Agility Course"
+        },
+        {
+            "id": 535,
+            "name": "Complete the Corrupted Gauntlet"
+        },
+        {
+            "id": 534,
+            "name": "Complete the Gauntlet"
+        },
+        {
+            "id": 522,
+            "name": "Complete the Prifddinas Agility Course"
+        },
+        {
+            "id": 523,
+            "name": "Complete the Prifddinas Agility Course in 1:10"
+        },
+        {
+            "id": 525,
+            "name": "Craft 50 Death Runes"
+        },
+        {
+            "id": 530,
+            "name": "Craft a Piece of Crystal Armour"
+        },
+        {
+            "id": 558,
+            "name": "Craft an Eternal Teleport Crystal"
+        },
+        {
+            "id": 1762,
+            "name": "Create 25 Divine Super Attack Potions"
+        },
+        {
+            "id": 1763,
+            "name": "Create 25 Divine Super Strength Potions"
+        },
+        {
+            "id": 542,
+            "name": "Defeat a Dark Beast in Tirannwn"
+        },
+        {
+            "id": 555,
+            "name": "Defeat a Nechryael in Tirannwn"
+        },
+        {
+            "id": 538,
+            "name": "Defeat Zalcano"
+        },
+        {
+            "id": 550,
+            "name": "Defeat Zalcano 50 Times"
+        },
+        {
+            "id": 540,
+            "name": "Defeat Zulrah"
+        },
+        {
+            "id": 553,
+            "name": "Defeat Zulrah 50 Times"
+        },
+        {
+            "id": 515,
+            "name": "Dissect 50 Sacred Eels"
+        },
+        {
+            "id": 546,
+            "name": "Equip a Crystal Bow"
+        },
+        {
+            "id": 549,
+            "name": "Equip a Crystal Shield"
+        },
+        {
+            "id": 544,
+            "name": "Equip a Dark Bow in Tirannwn"
+        },
+        {
+            "id": 1512,
+            "name": "Equip any piece of Crystal Armour"
+        },
+        {
+            "id": 561,
+            "name": "Find Every Memoriam Crystal"
+        },
+        {
+            "id": 1388,
+            "name": "Kill 50 Elves in Tirannwn"
+        },
+        {
+            "id": 1808,
+            "name": "Load a blowpipe with Rune Darts"
+        },
+        {
+            "id": 1386,
+            "name": "Make 50 Teak Planks in Prifddinas"
+        },
+        {
+            "id": 1378,
+            "name": "Mine 200 Soft Clay in Tirannwn"
+        },
+        {
+            "id": 562,
+            "name": "Open the Enhanced Crystal Chest"
+        },
+        {
+            "id": 526,
+            "name": "Pickpocket an Elf 50 Times"
+        },
+        {
+            "id": 1513,
+            "name": "Receive a Dragonstone Amulet from an Impling"
+        },
+        {
+            "id": 1389,
+            "name": "Use a prayer altar to restore 90 prayer in Prifddinas"
+        },
+        {
+            "id": 1745,
+            "name": "150 Amoxliatl Kills"
+        },
+        {
+            "id": 1732,
+            "name": "150 Hueycoatl Kills"
+        },
+        {
+            "id": 1744,
+            "name": "50 Amoxliatl Kills"
+        },
+        {
+            "id": 1731,
+            "name": "50 Hueycoatl Kills"
+        },
+        {
+            "id": 1772,
+            "name": "Amoxliatl Combat Achievements"
+        },
+        {
+            "id": 1697,
+            "name": "Catch 25 Sunlight Antelopes"
+        },
+        {
+            "id": 1695,
+            "name": "Check the health of Mahogany Tree in Marcellus's Patch"
+        },
+        {
+            "id": 1719,
+            "name": "Chop 20 Magic Logs in Varlamore"
+        },
+        {
+            "id": 1660,
+            "name": "Complete 50 Hunter Rumours"
+        },
+        {
+            "id": 1661,
+            "name": "Complete a Ribbiting Tale"
+        },
+        {
+            "id": 1810,
+            "name": "Complete Death on the Isle"
+        },
+        {
+            "id": 1770,
+            "name": "Complete Perilous Moons"
+        },
+        {
+            "id": 1665,
+            "name": "Complete Wave 6 of Fortis Colosseum"
+        },
+        {
+            "id": 1711,
+            "name": "Cook 100 Moonlight Antelopes"
+        },
+        {
+            "id": 1689,
+            "name": "Craft 1000 Sunfire Runes"
+        },
+        {
+            "id": 1693,
+            "name": "Create 100 Jugs of Blessed Sunfire Wine"
+        },
+        {
+            "id": 1166,
+            "name": "Defeat Vardorvis"
+        },
+        {
+            "id": 1168,
+            "name": "Defeat Vardorvis 150 times"
+        },
+        {
+            "id": 1167,
+            "name": "Defeat Vardorvis 50 times"
+        },
+        {
+            "id": 1670,
+            "name": "Equip a piece of Sunfire Fanatic"
+        },
+        {
+            "id": 1674,
+            "name": "Equip Echo Boots"
+        },
+        {
+            "id": 1737,
+            "name": "Equip full Alchemists outfit"
+        },
+        {
+            "id": 1678,
+            "name": "Equip full Blood Moon armour"
+        },
+        {
+            "id": 1682,
+            "name": "Equip full Blue Moon armour"
+        },
+        {
+            "id": 1680,
+            "name": "Equip full Eclipse Moon armour"
+        },
+        {
+            "id": 1706,
+            "name": "Equip full Guild Hunter Outfit"
+        },
+        {
+            "id": 1734,
+            "name": "Equip full Hueycoatl armour"
+        },
+        {
+            "id": 1671,
+            "name": "Equip full Sunfire Fanatic"
+        },
+        {
+            "id": 1747,
+            "name": "Equip Glacial Temotli"
+        },
+        {
+            "id": 1773,
+            "name": "Hueycoatl Combat Achievements"
+        },
+        {
+            "id": 1739,
+            "name": "Make 100 Prayer Regeneration Potions"
+        },
+        {
+            "id": 1738,
+            "name": "Make 50 Goading Potions"
+        },
+        {
+            "id": 1707,
+            "name": "Obtain the Huntsman's Kit"
+        },
+        {
+            "id": 1708,
+            "name": "Open a Master Hunter's Loot Sack"
+        },
+        {
+            "id": 1735,
+            "name": "Purchase the Reagents Pouch"
+        },
+        {
+            "id": 1703,
+            "name": "Steal a Blessed Bone Statuette"
+        },
+        {
+            "id": 1688,
+            "name": "Subdue the Moons of Peril 50 times"
+        },
+        {
+            "id": 1662,
+            "name": "Use the Bank Chest inside Fortis Colosseum"
+        },
+        {
+            "id": 1663,
+            "name": "Use the Fortis Salute emote"
+        },
+        {
+            "id": 972,
+            "name": "Catch 100 Dark Crabs"
+        },
+        {
+            "id": 1028,
+            "name": "Complete the Hard Wilderness Diary"
+        },
+        {
+            "id": 981,
+            "name": "Craft an Air Battlestaff in the Wilderness"
+        },
+        {
+            "id": 1590,
+            "name": "Cross the Chaos Temple Stone Shortcut"
+        },
+        {
+            "id": 992,
+            "name": "Defeat Callisto"
+        },
+        {
+            "id": 1405,
+            "name": "Defeat Callisto 150 times"
+        },
+        {
+            "id": 1404,
+            "name": "Defeat Callisto 50 times"
+        },
+        {
+            "id": 991,
+            "name": "Defeat Scorpia"
+        },
+        {
+            "id": 999,
+            "name": "Defeat the Chaos Elemental"
+        },
+        {
+            "id": 1004,
+            "name": "Defeat the Corporeal Beast"
+        },
+        {
+            "id": 1005,
+            "name": "Defeat the Corporeal Beast 50 Times"
+        },
+        {
+            "id": 1000,
+            "name": "Defeat the King Black Dragon"
+        },
+        {
+            "id": 988,
+            "name": "Defeat Venenatis"
+        },
+        {
+            "id": 1399,
+            "name": "Defeat Venenatis 150 times"
+        },
+        {
+            "id": 1398,
+            "name": "Defeat Venenatis 50 times"
+        },
+        {
+            "id": 996,
+            "name": "Defeat Vet'ion"
+        },
+        {
+            "id": 1402,
+            "name": "Defeat Vet'ion 150 times"
+        },
+        {
+            "id": 1401,
+            "name": "Defeat Vet'ion 50 times"
+        },
+        {
+            "id": 978,
+            "name": "Equip 100 Black Chinchompas"
+        },
+        {
+            "id": 979,
+            "name": "Equip 250 Black Chinchompas"
+        },
+        {
+            "id": 1003,
+            "name": "Equip a Dragon 2-Handed Sword in the Wilderness"
+        },
+        {
+            "id": 1013,
+            "name": "Equip an Enchanted Slayer Staff"
+        },
+        {
+            "id": 1022,
+            "name": "Imbue a God Cape"
+        },
+        {
+            "id": 1294,
+            "name": "Loot a dragonstone from the Rogues Castle"
+        },
+        {
+            "id": 1344,
+            "name": "Open 10 Muddy Chests"
+        },
+        {
+            "id": 1645,
+            "name": "Open 15 Zombie Pirate Lockers"
+        },
+        {
+            "id": 1342,
+            "name": "Open 50 Larran's Chests"
+        },
+        {
+            "id": 1646,
+            "name": "Open 50 Zombie Pirate Lockers"
+        },
+        {
+            "id": 1647,
+            "name": "Redeem 50 Wilderness Agility Tickets"
+        },
+        {
+            "id": 970,
+            "name": "Sacrifice Some Dragon Bones at the Chaos Temple"
+        },
+        {
+            "id": 1643,
+            "name": "Use a teleport anchoring scroll"
+        },
+        {
+            "id": 1112,
+            "name": "100 Combat Achievements"
+        },
+        {
+            "id": 1113,
+            "name": "150 Combat Achievements"
+        },
+        {
+            "id": 1114,
+            "name": "200 Combat Achievements"
+        },
+        {
+            "id": 1115,
+            "name": "250 Combat Achievements"
+        },
+        {
+            "id": 1454,
+            "name": "350 Collection log slots"
+        },
+        {
+            "id": 1111,
+            "name": "50 Combat Achievements"
+        },
+        {
+            "id": 1455,
+            "name": "500 Collection log slots"
+        },
+        {
+            "id": 166,
+            "name": "75 Master Clue Scrolls"
+        },
+        {
+            "id": 201,
+            "name": "Achieve Your First Level 90"
+        },
+        {
+            "id": 202,
+            "name": "Achieve Your First Level 95"
+        },
+        {
+            "id": 127,
+            "name": "Activate an Imbued Heart"
+        },
+        {
+            "id": 411,
+            "name": "Add a Jar to a Display Case"
+        },
+        {
+            "id": 1346,
+            "name": "Build a Spirit tree &amp;fairy ring"
+        },
+        {
+            "id": 1616,
+            "name": "Catch 500 Chinchompas"
+        },
+        {
+            "id": 385,
+            "name": "Catch a Lucky Impling Bare-Handed"
+        },
+        {
+            "id": 1121,
+            "name": "Combat Achievements Hard Tier"
+        },
+        {
+            "id": 1120,
+            "name": "Combat Achievements Medium Tier"
+        },
+        {
+            "id": 1415,
+            "name": "Complete 10 Speed Tasks"
+        },
+        {
+            "id": 1416,
+            "name": "Complete 20 Speed Tasks"
+        },
+        {
+            "id": 1417,
+            "name": "Complete 30 Speed Tasks"
+        },
+        {
+            "id": 766,
+            "name": "Complete the Elite Western Provinces Diary"
+        },
+        {
+            "id": 339,
+            "name": "Craft an Onyx Amulet"
+        },
+        {
+            "id": 330,
+            "name": "Defeat 50 Superior Slayer Creatures"
+        },
+        {
+            "id": 1459,
+            "name": "Equip a piece of Virtus"
+        },
+        {
+            "id": 416,
+            "name": "Equip an Abyssal Whip"
+        },
+        {
+            "id": 126,
+            "name": "Equip an Eternal Slayer Ring"
+        },
+        {
+            "id": 767,
+            "name": "Equip an Infernal Tool"
+        },
+        {
+            "id": 1260,
+            "name": "Equip the Soulreaper Axe"
+        },
+        {
+            "id": 10,
+            "name": "Fill 25 Master Clue Collection Log Slots"
+        },
+        {
+            "id": 37,
+            "name": "Fill Every Beginner Clue Collection Log Slot"
+        },
+        {
+            "id": 1364,
+            "name": "Fletch 100 Dragon Javelins"
+        },
+        {
+            "id": 44,
+            "name": "Gain 25 Unique Items From Elite Clues"
+        },
+        {
+            "id": 42,
+            "name": "Gain 25 Unique Items From Master Clues"
+        },
+        {
+            "id": 1796,
+            "name": "Kill 25 Echo Bosses"
+        },
+        {
+            "id": 1797,
+            "name": "Kill 75 Echo Bosses"
+        },
+        {
+            "id": 399,
+            "name": "Make a Super Combat Potion"
+        },
+        {
+            "id": 245,
+            "name": "Obtain 25 Million Agility XP"
+        },
+        {
+            "id": 241,
+            "name": "Obtain 25 Million Construction XP"
+        },
+        {
+            "id": 265,
+            "name": "Obtain 25 Million Cooking XP"
+        },
+        {
+            "id": 251,
+            "name": "Obtain 25 Million Crafting XP"
+        },
+        {
+            "id": 271,
+            "name": "Obtain 25 Million Farming XP"
+        },
+        {
+            "id": 267,
+            "name": "Obtain 25 Million Firemaking XP"
+        },
+        {
+            "id": 263,
+            "name": "Obtain 25 Million Fishing XP"
+        },
+        {
+            "id": 253,
+            "name": "Obtain 25 Million Fletching XP"
+        },
+        {
+            "id": 247,
+            "name": "Obtain 25 Million Herblore XP"
+        },
+        {
+            "id": 257,
+            "name": "Obtain 25 Million Hunter XP"
+        },
+        {
+            "id": 259,
+            "name": "Obtain 25 Million Mining XP"
+        },
+        {
+            "id": 235,
+            "name": "Obtain 25 Million Prayer XP"
+        },
+        {
+            "id": 239,
+            "name": "Obtain 25 Million Runecraft XP"
+        },
+        {
+            "id": 255,
+            "name": "Obtain 25 Million Slayer XP"
+        },
+        {
+            "id": 261,
+            "name": "Obtain 25 Million Smithing XP"
+        },
+        {
+            "id": 249,
+            "name": "Obtain 25 Million Thieving XP"
+        },
+        {
+            "id": 269,
+            "name": "Obtain 25 Million Woodcutting XP"
+        },
+        {
+            "id": 1469,
+            "name": "Obtain 35 Million Agility XP"
+        },
+        {
+            "id": 1467,
+            "name": "Obtain 35 Million Construction XP"
+        },
+        {
+            "id": 1479,
+            "name": "Obtain 35 Million Cooking XP"
+        },
+        {
+            "id": 1472,
+            "name": "Obtain 35 Million Crafting XP"
+        },
+        {
+            "id": 1482,
+            "name": "Obtain 35 Million Farming XP"
+        },
+        {
+            "id": 1480,
+            "name": "Obtain 35 Million Firemaking XP"
+        },
+        {
+            "id": 1478,
+            "name": "Obtain 35 Million Fishing XP"
+        },
+        {
+            "id": 1473,
+            "name": "Obtain 35 Million Fletching XP"
+        },
+        {
+            "id": 1470,
+            "name": "Obtain 35 Million Herblore XP"
+        },
+        {
+            "id": 1475,
+            "name": "Obtain 35 Million Hunter XP"
+        },
+        {
+            "id": 1476,
+            "name": "Obtain 35 Million Mining XP"
+        },
+        {
+            "id": 1464,
+            "name": "Obtain 35 Million Prayer XP"
+        },
+        {
+            "id": 1466,
+            "name": "Obtain 35 Million Runecraft XP"
+        },
+        {
+            "id": 1474,
+            "name": "Obtain 35 Million Slayer XP"
+        },
+        {
+            "id": 1477,
+            "name": "Obtain 35 Million Smithing XP"
+        },
+        {
+            "id": 1471,
+            "name": "Obtain 35 Million Thieving XP"
+        },
+        {
+            "id": 1481,
+            "name": "Obtain 35 Million Woodcutting XP"
+        },
+        {
+            "id": 1492,
+            "name": "Obtain 50 Million Agility XP"
+        },
+        {
+            "id": 1483,
+            "name": "Obtain 50 Million Attack XP"
+        },
+        {
+            "id": 1490,
+            "name": "Obtain 50 Million Construction XP"
+        },
+        {
+            "id": 1502,
+            "name": "Obtain 50 Million Cooking XP"
+        },
+        {
+            "id": 1495,
+            "name": "Obtain 50 Million Crafting XP"
+        },
+        {
+            "id": 1485,
+            "name": "Obtain 50 Million Defence XP"
+        },
+        {
+            "id": 1505,
+            "name": "Obtain 50 Million Farming XP"
+        },
+        {
+            "id": 1503,
+            "name": "Obtain 50 Million Firemaking XP"
+        },
+        {
+            "id": 1501,
+            "name": "Obtain 50 Million Fishing XP"
+        },
+        {
+            "id": 1496,
+            "name": "Obtain 50 Million Fletching XP"
+        },
+        {
+            "id": 1493,
+            "name": "Obtain 50 Million Herblore XP"
+        },
+        {
+            "id": 1491,
+            "name": "Obtain 50 Million Hitpoints XP"
+        },
+        {
+            "id": 1498,
+            "name": "Obtain 50 Million Hunter XP"
+        },
+        {
+            "id": 1488,
+            "name": "Obtain 50 Million Magic XP"
+        },
+        {
+            "id": 1499,
+            "name": "Obtain 50 Million Mining XP"
+        },
+        {
+            "id": 1487,
+            "name": "Obtain 50 Million Prayer XP"
+        },
+        {
+            "id": 1486,
+            "name": "Obtain 50 Million Ranged XP"
+        },
+        {
+            "id": 1489,
+            "name": "Obtain 50 Million Runecraft XP"
+        },
+        {
+            "id": 1497,
+            "name": "Obtain 50 Million Slayer XP"
+        },
+        {
+            "id": 1500,
+            "name": "Obtain 50 Million Smithing XP"
+        },
+        {
+            "id": 1484,
+            "name": "Obtain 50 Million Strength XP"
+        },
+        {
+            "id": 1494,
+            "name": "Obtain 50 Million Thieving XP"
+        },
+        {
+            "id": 1504,
+            "name": "Obtain 50 Million Woodcutting XP"
+        },
+        {
+            "id": 400,
+            "name": "Obtain a Boss Pet"
+        },
+        {
+            "id": 272,
+            "name": "Obtain a Skilling Pet"
+        },
+        {
+            "id": 223,
+            "name": "Reach Base Level 80"
+        },
+        {
+            "id": 224,
+            "name": "Reach Base Level 90"
+        },
+        {
+            "id": 407,
+            "name": "Reach Combat Level 120"
+        },
+        {
+            "id": 408,
+            "name": "Reach Combat Level 126"
+        },
+        {
+            "id": 244,
+            "name": "Reach Level 99 Agility"
+        },
+        {
+            "id": 226,
+            "name": "Reach Level 99 Attack"
+        },
+        {
+            "id": 240,
+            "name": "Reach Level 99 Construction"
+        },
+        {
+            "id": 264,
+            "name": "Reach Level 99 Cooking"
+        },
+        {
+            "id": 250,
+            "name": "Reach Level 99 Crafting"
+        },
+        {
+            "id": 230,
+            "name": "Reach Level 99 Defence"
+        },
+        {
+            "id": 270,
+            "name": "Reach Level 99 Farming"
+        },
+        {
+            "id": 266,
+            "name": "Reach Level 99 Firemaking"
+        },
+        {
+            "id": 262,
+            "name": "Reach Level 99 Fishing"
+        },
+        {
+            "id": 252,
+            "name": "Reach Level 99 Fletching"
+        },
+        {
+            "id": 246,
+            "name": "Reach Level 99 Herblore"
+        },
+        {
+            "id": 242,
+            "name": "Reach Level 99 Hitpoints"
+        },
+        {
+            "id": 256,
+            "name": "Reach Level 99 Hunter"
+        },
+        {
+            "id": 236,
+            "name": "Reach Level 99 Magic"
+        },
+        {
+            "id": 258,
+            "name": "Reach Level 99 Mining"
+        },
+        {
+            "id": 234,
+            "name": "Reach Level 99 Prayer"
+        },
+        {
+            "id": 232,
+            "name": "Reach Level 99 Ranged"
+        },
+        {
+            "id": 238,
+            "name": "Reach Level 99 Runecraft"
+        },
+        {
+            "id": 254,
+            "name": "Reach Level 99 Slayer"
+        },
+        {
+            "id": 260,
+            "name": "Reach Level 99 Smithing"
+        },
+        {
+            "id": 228,
+            "name": "Reach Level 99 Strength"
+        },
+        {
+            "id": 248,
+            "name": "Reach Level 99 Thieving"
+        },
+        {
+            "id": 268,
+            "name": "Reach Level 99 Woodcutting"
+        },
+        {
+            "id": 211,
+            "name": "Reach Total Level 2000"
+        },
+        {
+            "id": 212,
+            "name": "Reach Total Level 2100"
+        },
+        {
+            "id": 213,
+            "name": "Reach Total Level 2200"
+        },
+        {
+            "id": 328,
+            "name": "Slay an Abyssal Demon"
+        },
+        {
+            "id": 355,
+            "name": "Smith a Dragonfire Shield"
+        },
+        {
+            "id": 818,
+            "name": "Complete the Elite Falador Diary"
+        },
+        {
+            "id": 811,
+            "name": "Defeat Any God Wars Dungeon Boss 500 Times"
+        },
+        {
+            "id": 1175,
+            "name": "Defeat Awakened Whisperer"
+        },
+        {
+            "id": 1394,
+            "name": "Defeat Cerberus 300 times"
+        },
+        {
+            "id": 1159,
+            "name": "Defeat Nex 300 Times"
+        },
+        {
+            "id": 1174,
+            "name": "Defeat Whisperer 300 times"
+        },
+        {
+            "id": 791,
+            "name": "Equip a Full Armadyl Armour Set"
+        },
+        {
+            "id": 796,
+            "name": "Equip a Full Bandos Armour Set"
+        },
+        {
+            "id": 769,
+            "name": "Equip a Full Graceful Outfit"
+        },
+        {
+            "id": 1140,
+            "name": "Equip a Full set of Golden Prospector"
+        },
+        {
+            "id": 1253,
+            "name": "Equip a full set of the Carpenters Outfit"
+        },
+        {
+            "id": 802,
+            "name": "Equip a Godsword"
+        },
+        {
+            "id": 790,
+            "name": "Equip a Piece of the Armadyl Armour Set"
+        },
+        {
+            "id": 795,
+            "name": "Equip a Piece of the Bandos Armour Set"
+        },
+        {
+            "id": 1160,
+            "name": "Equip a Piece of Torva Armour"
+        },
+        {
+            "id": 784,
+            "name": "Equip a Staff of the Dead"
+        },
+        {
+            "id": 789,
+            "name": "Equip a Zamorakian Spear"
+        },
+        {
+            "id": 1163,
+            "name": "Equip a Zaryte Crossbow"
+        },
+        {
+            "id": 798,
+            "name": "Equip an Armadyl Crossbow"
+        },
+        {
+            "id": 799,
+            "name": "Equip Some Primordial, Pegasian or Eternal Boots"
+        },
+        {
+            "id": 1223,
+            "name": "Equip the Bellator Ring"
+        },
+        {
+            "id": 1420,
+            "name": "The Whisperer Combat Achievements"
+        },
+        {
+            "id": 872,
+            "name": "Cast Ice Barrage"
+        },
+        {
+            "id": 880,
+            "name": "Complete the Elite Desert Diary"
+        },
+        {
+            "id": 1189,
+            "name": "Complete Tombs of Amascut 100 times"
+        },
+        {
+            "id": 1188,
+            "name": "Complete Tombs of Amascut 50 times"
+        },
+        {
+            "id": 1042,
+            "name": "Craft a Ghorrock Teleport Tablet"
+        },
+        {
+            "id": 1180,
+            "name": "Defeat Awakened Leviathan"
+        },
+        {
+            "id": 1179,
+            "name": "Defeat Leviathan 300 times"
+        },
+        {
+            "id": 867,
+            "name": "Equip a Dragon Chainbody in the Kharidian Desert"
+        },
+        {
+            "id": 1242,
+            "name": "Equip a full set of Raiment of the eye"
+        },
+        {
+            "id": 1230,
+            "name": "Equip a Piece of Masori Armour"
+        },
+        {
+            "id": 883,
+            "name": "Equip a Piece of the Infinity Robe Set"
+        },
+        {
+            "id": 1232,
+            "name": "Equip Osmumten's Fang"
+        },
+        {
+            "id": 1228,
+            "name": "Equip the Elidinis Ward"
+        },
+        {
+            "id": 1222,
+            "name": "Equip the Venator Ring"
+        },
+        {
+            "id": 1365,
+            "name": "Fletch 200 Dragon Darts"
+        },
+        {
+            "id": 1221,
+            "name": "Hit 150 with the Keris Partisan"
+        },
+        {
+            "id": 1051,
+            "name": "Smith 1,000 Rune Dart Tips"
+        },
+        {
+            "id": 1423,
+            "name": "The Leviathan Combat Achievements"
+        },
+        {
+            "id": 849,
+            "name": "Turn in 50 Summer Sq'irkjuices to Osman"
+        },
+        {
+            "id": 1805,
+            "name": "Blast Furnace 100 Runite Bars"
+        },
+        {
+            "id": 626,
+            "name": "Complete the Elite Fremennik Diary"
+        },
+        {
+            "id": 1429,
+            "name": "Dagannoth Kings Combat Achievements"
+        },
+        {
+            "id": 1185,
+            "name": "Defeat Awakened Duke Sucellus"
+        },
+        {
+            "id": 1184,
+            "name": "Defeat Duke Sucellus 300 times"
+        },
+        {
+            "id": 615,
+            "name": "Defeat Each Dagannoth King 300 Times"
+        },
+        {
+            "id": 1196,
+            "name": "Defeat Phantom Muspah 300 times"
+        },
+        {
+            "id": 605,
+            "name": "Defeat Vorkath 15 Times Without Leaving"
+        },
+        {
+            "id": 610,
+            "name": "Defeat Vorkath 300 Times"
+        },
+        {
+            "id": 602,
+            "name": "Defeat Vorkath 5 Times Without Special Damage"
+        },
+        {
+            "id": 1422,
+            "name": "Duke Sucellus Combat Achievements"
+        },
+        {
+            "id": 630,
+            "name": "Equip a Completed God Book"
+        },
+        {
+            "id": 469,
+            "name": "Equip a Dragon Crossbow"
+        },
+        {
+            "id": 470,
+            "name": "Equip a Dragon Platebody or Dragon Kiteshield"
+        },
+        {
+            "id": 591,
+            "name": "Equip a Dragonbone Necklace"
+        },
+        {
+            "id": 586,
+            "name": "Equip a Dragonfire Ward"
+        },
+        {
+            "id": 600,
+            "name": "Equip a Neitiznot Faceguard"
+        },
+        {
+            "id": 597,
+            "name": "Equip Every Dagannoth King Ring"
+        },
+        {
+            "id": 1225,
+            "name": "Equip the Magus Ring"
+        },
+        {
+            "id": 1244,
+            "name": "Equip the Venator Bow"
+        },
+        {
+            "id": 1339,
+            "name": "Make 50 Forgotten Brews"
+        },
+        {
+            "id": 1431,
+            "name": "Phantom Muspah Combat Achievements"
+        },
+        {
+            "id": 1430,
+            "name": "Vorkath Combat Achievements"
+        },
+        {
+            "id": 1816,
+            "name": "Barehand catch a Shark"
+        },
+        {
+            "id": 692,
+            "name": "Catch 150 Red Chinchompas in Kandarin"
+        },
+        {
+            "id": 703,
+            "name": "Check a grown Dragonfruit Tree in Catherby"
+        },
+        {
+            "id": 689,
+            "name": "Complete the Ardougne Agility Course"
+        },
+        {
+            "id": 1056,
+            "name": "Complete the Elite Ardougne Diary"
+        },
+        {
+            "id": 762,
+            "name": "Complete the Elite Kandarin Diary"
+        },
+        {
+            "id": 732,
+            "name": "Defeat 300 Demonic Gorillas"
+        },
+        {
+            "id": 733,
+            "name": "Defeat 500 Demonic Gorillas"
+        },
+        {
+            "id": 730,
+            "name": "Defeat the Kraken Boss 300 Times"
+        },
+        {
+            "id": 715,
+            "name": "Equip a Fighter Torso"
+        },
+        {
+            "id": 712,
+            "name": "Equip a Heavy Ballista"
+        },
+        {
+            "id": 1438,
+            "name": "Equip a Light Ballista"
+        },
+        {
+            "id": 756,
+            "name": "Equip a Maniacal Monkey Backpack"
+        },
+        {
+            "id": 716,
+            "name": "Equip an Abyssal Tentacle"
+        },
+        {
+            "id": 723,
+            "name": "Equip an Occult Necklace"
+        },
+        {
+            "id": 710,
+            "name": "Equip Some Zenyte Jewelry"
+        },
+        {
+            "id": 1537,
+            "name": "Get 1000 Target points"
+        },
+        {
+            "id": 739,
+            "name": "Reach Level 5 in Any Barbarian Assault Role"
+        },
+        {
+            "id": 288,
+            "name": "Travel Between Your Spirit Trees"
+        },
+        {
+            "id": 727,
+            "name": "Use the Piety Prayer"
+        },
+        {
+            "id": 674,
+            "name": "Complete the Elite Karamja Diary"
+        },
+        {
+            "id": 665,
+            "name": "Complete the Fight Caves 10 Times"
+        },
+        {
+            "id": 664,
+            "name": "Complete the Fight Caves 5 Times"
+        },
+        {
+            "id": 668,
+            "name": "Complete the Inferno 10 Times"
+        },
+        {
+            "id": 667,
+            "name": "Complete the Inferno 5 Times"
+        },
+        {
+            "id": 1201,
+            "name": "Complete Tzhaar-Ket-Rak's fifth challenge"
+        },
+        {
+            "id": 1200,
+            "name": "Complete Tzhaar-Ket-Rak's fourth challenge"
+        },
+        {
+            "id": 1202,
+            "name": "Complete Tzhaar-Ket-Rak's sixth challenge"
+        },
+        {
+            "id": 653,
+            "name": "Equip a Fire Cape"
+        },
+        {
+            "id": 1575,
+            "name": "Pay Saniboch for Permanent Access"
+        },
+        {
+            "id": 678,
+            "name": "Purchase an Onyx in Mor Ul Rek"
+        },
+        {
+            "id": 661,
+            "name": "Sacrifice a Fire Cape to Access the Inferno"
+        },
+        {
+            "id": 117,
+            "name": "100 Chambers of Xeric"
+        },
+        {
+            "id": 113,
+            "name": "300 Alchemical Hydra Kills"
+        },
+        {
+            "id": 1436,
+            "name": "Alchemical Hydra Combat Achievements"
+        },
+        {
+            "id": 1609,
+            "name": "Catch 150 Anglerfish"
+        },
+        {
+            "id": 93,
+            "name": "Check a grown Redwood Tree"
+        },
+        {
+            "id": 1376,
+            "name": "Chop 500 Redwood logs"
+        },
+        {
+            "id": 1349,
+            "name": "Cook 100 Anglerfish"
+        },
+        {
+            "id": 1602,
+            "name": "Craft 100 Soul runes"
+        },
+        {
+            "id": 1069,
+            "name": "Equip a Bonecrusher necklace"
+        },
+        {
+            "id": 1060,
+            "name": "Equip a Dragon Hunter Crossbow"
+        },
+        {
+            "id": 129,
+            "name": "Equip a Dragon Hunter Lance"
+        },
+        {
+            "id": 121,
+            "name": "Equip a Dragon Warhammer"
+        },
+        {
+            "id": 187,
+            "name": "Equip a Golden Tench"
+        },
+        {
+            "id": 133,
+            "name": "Equip a Kodai Wand"
+        },
+        {
+            "id": 1066,
+            "name": "Equip a pair of Dragon Claws"
+        },
+        {
+            "id": 1061,
+            "name": "Equip a Twisted Buckler"
+        },
+        {
+            "id": 132,
+            "name": "Equip an Elder Maul"
+        },
+        {
+            "id": 1064,
+            "name": "Equip any Ancestral piece"
+        },
+        {
+            "id": 1063,
+            "name": "Equip Dinh's Bulwark"
+        },
+        {
+            "id": 138,
+            "name": "Kourend and Kebos Elite Diary Tasks"
+        },
+        {
+            "id": 1067,
+            "name": "Recolour a piece of the Ancestral Robes"
+        },
+        {
+            "id": 1637,
+            "name": "Smith Shayzien (5)"
+        },
+        {
+            "id": 1435,
+            "name": "Abyssal Sire Combat Achievements"
+        },
+        {
+            "id": 444,
+            "name": "Catch a Herbiboar 150 Times"
+        },
+        {
+            "id": 491,
+            "name": "Complete the Elite Lumbridge &amp;Draynor Diary"
+        },
+        {
+            "id": 1050,
+            "name": "Complete the Elite Varrock Diary"
+        },
+        {
+            "id": 486,
+            "name": "Defeat the Abyssal Sire 150 Times"
+        },
+        {
+            "id": 487,
+            "name": "Defeat the Abyssal Sire 300 Times"
+        },
+        {
+            "id": 485,
+            "name": "Defeat the Abyssal Sire 50 Times"
+        },
+        {
+            "id": 474,
+            "name": "Equip a Dragonfire Shield"
+        },
+        {
+            "id": 481,
+            "name": "Equip an Abyssal Bludgeon"
+        },
+        {
+            "id": 483,
+            "name": "Equip an Abyssal Dagger"
+        },
+        {
+            "id": 478,
+            "name": "Equip an Ancient Wyvern Shield"
+        },
+        {
+            "id": 449,
+            "name": "Mine a Runite Ore Fragment"
+        },
+        {
+            "id": 1726,
+            "name": "300 Araxxor Kills"
+        },
+        {
+            "id": 1642,
+            "name": "Araxxor Combat Achievements"
+        },
+        {
+            "id": 1136,
+            "name": "Attach a Holy ornament kit to the Scythe of Vitur"
+        },
+        {
+            "id": 1135,
+            "name": "Attach a Sanguine ornament kit to the Scythe"
+        },
+        {
+            "id": 955,
+            "name": "Complete the Elite Morytania Diary"
+        },
+        {
+            "id": 904,
+            "name": "Complete the Hallowed Sepulchre in 6:30"
+        },
+        {
+            "id": 948,
+            "name": "Complete the Theatre of Blood 100 Times"
+        },
+        {
+            "id": 946,
+            "name": "Complete the Theatre of Blood 25 Times"
+        },
+        {
+            "id": 947,
+            "name": "Complete the Theatre of Blood 50 Times"
+        },
+        {
+            "id": 1081,
+            "name": "Defeat The Nightmare 150 times"
+        },
+        {
+            "id": 1080,
+            "name": "Defeat The Nightmare 50 times"
+        },
+        {
+            "id": 945,
+            "name": "Equip a Ghrazi Rapier"
+        },
+        {
+            "id": 935,
+            "name": "Equip a Piece of the Inquisitor's Set"
+        },
+        {
+            "id": 943,
+            "name": "Equip a Piece of the Justiciar Set"
+        },
+        {
+            "id": 905,
+            "name": "Equip a Ring of Endurance"
+        },
+        {
+            "id": 941,
+            "name": "Equip a Sanguinesti Staff"
+        },
+        {
+            "id": 933,
+            "name": "Equip an Inquisitor's Mace"
+        },
+        {
+            "id": 1727,
+            "name": "Equip the Amulet of Rancour"
+        },
+        {
+            "id": 1728,
+            "name": "Equip the Noxious Halberd"
+        },
+        {
+            "id": 902,
+            "name": "Floor 5 of the Hallowed Sepulchre"
+        },
+        {
+            "id": 1434,
+            "name": "Grotesque Guardians Combat Achievements"
+        },
+        {
+            "id": 1433,
+            "name": "Phosani's Nightmare Combat Achievements"
+        },
+        {
+            "id": 1432,
+            "name": "The Nightmare Combat Achievements"
+        },
+        {
+            "id": 1377,
+            "name": "Catch 300 Red Chinchompas in Tirannwn"
+        },
+        {
+            "id": 1811,
+            "name": "Check the health of 5 Crystal Trees"
+        },
+        {
+            "id": 548,
+            "name": "Complete the Corrupted Gauntlet 150 Times"
+        },
+        {
+            "id": 547,
+            "name": "Complete the Corrupted Gauntlet 50 Times"
+        },
+        {
+            "id": 543,
+            "name": "Craft a Toxic Blowpipe"
+        },
+        {
+            "id": 545,
+            "name": "Craft a Toxic Trident"
+        },
+        {
+            "id": 1381,
+            "name": "Create 100 Divine Ranging Potions"
+        },
+        {
+            "id": 1380,
+            "name": "Create 100 Divine Super Combat Potions"
+        },
+        {
+            "id": 551,
+            "name": "Defeat Zalcano 100 Times"
+        },
+        {
+            "id": 554,
+            "name": "Defeat Zulrah 150 Times"
+        },
+        {
+            "id": 1397,
+            "name": "Defeat Zulrah 300 Times"
+        },
+        {
+            "id": 1390,
+            "name": "Dismantle a Zulrah scale unique"
+        },
+        {
+            "id": 1764,
+            "name": "Dissect 250 Sacred Eels"
+        },
+        {
+            "id": 524,
+            "name": "Equip a Crystal Grail"
+        },
+        {
+            "id": 531,
+            "name": "Equip a Full Crystal Armour Set"
+        },
+        {
+            "id": 559,
+            "name": "Equip a Piece of the Dragonstone Armour Set"
+        },
+        {
+            "id": 541,
+            "name": "Equip a Serpentine Helm"
+        },
+        {
+            "id": 520,
+            "name": "Equip an Elven Signet"
+        },
+        {
+            "id": 1396,
+            "name": "Equip an Enhanced Crystal Weapon"
+        },
+        {
+            "id": 1514,
+            "name": "Load a blowpipe with Dragon Darts"
+        },
+        {
+            "id": 1379,
+            "name": "Mine 200 Runite Ore in Tirannwn"
+        },
+        {
+            "id": 1052,
+            "name": "Obtain a Zalcano Shard"
+        },
+        {
+            "id": 1383,
+            "name": "Smith 500 Runite bolts (unf) in Prifddinas"
+        },
+        {
+            "id": 1428,
+            "name": "Zulrah Combat Achievements"
+        },
+        {
+            "id": 1720,
+            "name": "Catch 100 Tecu salamanders"
+        },
+        {
+            "id": 1696,
+            "name": "Catch 50 Moonlight Antelopes"
+        },
+        {
+            "id": 1666,
+            "name": "Complete Wave 12 of Fortis Colosseum"
+        },
+        {
+            "id": 1170,
+            "name": "Defeat Awakened Vardorvis"
+        },
+        {
+            "id": 1169,
+            "name": "Defeat Vardorvis 300 times"
+        },
+        {
+            "id": 1722,
+            "name": "Equip a Tecu Salamander"
+        },
+        {
+            "id": 1749,
+            "name": "Equip the Moonlight Fanatic Helmet"
+        },
+        {
+            "id": 1224,
+            "name": "Equip the Ultor Ring"
+        },
+        {
+            "id": 1673,
+            "name": "Equip Tonalztics of Ralos"
+        },
+        {
+            "id": 1667,
+            "name": "Obtain 20,000 Glory"
+        },
+        {
+            "id": 1668,
+            "name": "Obtain 40,000 Glory"
+        },
+        {
+            "id": 1748,
+            "name": "Open the Varlamore Moon Chest"
+        },
+        {
+            "id": 1676,
+            "name": "Perilous Moons Combat Achievements"
+        },
+        {
+            "id": 1736,
+            "name": "Purchase the Chugging Barrel"
+        },
+        {
+            "id": 1421,
+            "name": "Vardorvis Combat Achievements"
+        },
+        {
+            "id": 1029,
+            "name": "Complete the Elite Wilderness Diary"
+        },
+        {
+            "id": 973,
+            "name": "Cook a Dark Crab"
+        },
+        {
+            "id": 1406,
+            "name": "Defeat Callisto 300 times"
+        },
+        {
+            "id": 1006,
+            "name": "Defeat the Corporeal Beast 150 Times"
+        },
+        {
+            "id": 1007,
+            "name": "Defeat the Corporeal Beast 250 Times"
+        },
+        {
+            "id": 1400,
+            "name": "Defeat Venenatis 300 times"
+        },
+        {
+            "id": 1403,
+            "name": "Defeat Vet'ion 300 times"
+        },
+        {
+            "id": 980,
+            "name": "Equip 500 Black Chinchompas"
+        },
+        {
+            "id": 1010,
+            "name": "Equip a Blessed Spirit Shield"
+        },
+        {
+            "id": 1041,
+            "name": "Equip a Full Dagon'Hai Set"
+        },
+        {
+            "id": 1015,
+            "name": "Equip a Malediction Ward"
+        },
+        {
+            "id": 1040,
+            "name": "Equip a Piece of the Dagon'Hai Set"
+        },
+        {
+            "id": 997,
+            "name": "Equip a Ring of the Gods"
+        },
+        {
+            "id": 697,
+            "name": "Equip a Thammaron's Sceptre"
+        },
+        {
+            "id": 989,
+            "name": "Equip a Treasonous Ring"
+        },
+        {
+            "id": 993,
+            "name": "Equip a Tyrannical Ring"
+        },
+        {
+            "id": 1016,
+            "name": "Equip an Odium Ward"
+        },
+        {
+            "id": 1018,
+            "name": "Equip Craw's Bow"
+        },
+        {
+            "id": 1297,
+            "name": "Equip full Elder chaos robe"
+        },
+        {
+            "id": 1258,
+            "name": "Equip the Accursed Sceptre"
+        },
+        {
+            "id": 1259,
+            "name": "Equip the Ursine Chainmace"
+        },
+        {
+            "id": 1256,
+            "name": "Equip the Voidwaker"
+        },
+        {
+            "id": 1257,
+            "name": "Equip the Webweaver"
+        },
+        {
+            "id": 910,
+            "name": "Equip Viggora's Chainmace"
+        },
+        {
+            "id": 974,
+            "name": "Make an Extended Antifire Potion"
+        },
+        {
+            "id": 985,
+            "name": "Mine Some Runite Ore in the Wilderness"
+        },
+        {
+            "id": 1456,
+            "name": "750 Collection log slots"
+        },
+        {
+            "id": 572,
+            "name": "Build a Demonic Throne"
+        },
+        {
+            "id": 1122,
+            "name": "Combat Achievements Elite Tier"
+        },
+        {
+            "id": 420,
+            "name": "Equip a Full Dragon Set"
+        },
+        {
+            "id": 1226,
+            "name": "Equip full Virtus"
+        },
+        {
+            "id": 225,
+            "name": "Reach Base Level 95"
+        },
+        {
+            "id": 214,
+            "name": "Reach Total Level 2277"
+        },
+        {
+            "id": 1161,
+            "name": "Equip a Full Set of Torva Armour"
+        },
+        {
+            "id": 785,
+            "name": "Equip Every Godsword"
+        },
+        {
+            "id": 1427,
+            "name": "Godwars Dungeon Combat Achievements"
+        },
+        {
+            "id": 884,
+            "name": "Equip a Full Infinity Robe Set"
+        },
+        {
+            "id": 1231,
+            "name": "Equip a full set of Masori"
+        },
+        {
+            "id": 1233,
+            "name": "Equip Osmumten's Fang (or)"
+        },
+        {
+            "id": 1236,
+            "name": "Equip the Tumeken's Shadow"
+        },
+        {
+            "id": 1426,
+            "name": "Tombs of Amascut Combat Achievements"
+        },
+        {
+            "id": 1245,
+            "name": "Create the Saturated Heart"
+        },
+        {
+            "id": 631,
+            "name": "Equip Every Completed God Book"
+        },
+        {
+            "id": 720,
+            "name": "Enhance a Trident of the Seas"
+        },
+        {
+            "id": 725,
+            "name": "Equip a Dragon Full Helm"
+        },
+        {
+            "id": 713,
+            "name": "Equip All Zenyte Jewelry"
+        },
+        {
+            "id": 669,
+            "name": "Complete the Inferno 15 Times"
+        },
+        {
+            "id": 1521,
+            "name": "Complete Tzhaar-Ket-Rak's Special challenge"
+        },
+        {
+            "id": 1576,
+            "name": "Equip a Pirate Hook"
+        },
+        {
+            "id": 654,
+            "name": "Equip an Infernal Cape"
+        },
+        {
+            "id": 1419,
+            "name": "The Fight Caves Combat Achievements"
+        },
+        {
+            "id": 1418,
+            "name": "The Inferno Combat Achievements"
+        },
+        {
+            "id": 1458,
+            "name": "TzHaar-Ket-Rak's Combat Achievements"
+        },
+        {
+            "id": 1424,
+            "name": "Chambers of Xeric Combat Achievements"
+        },
+        {
+            "id": 1065,
+            "name": "Equip a full set of Ancestral"
+        },
+        {
+            "id": 131,
+            "name": "Equip a Twisted Bow"
+        },
+        {
+            "id": 936,
+            "name": "Equip a Full Inquisitor's Set"
+        },
+        {
+            "id": 944,
+            "name": "Equip a Full Justiciar Set"
+        },
+        {
+            "id": 938,
+            "name": "Equip a Nightmare Staff With an Orb"
+        },
+        {
+            "id": 942,
+            "name": "Equip a Scythe of Vitur"
+        },
+        {
+            "id": 1425,
+            "name": "Theatre of Blood Combat Achievements"
+        },
+        {
+            "id": 536,
+            "name": "Equip a Corrupted Weapon"
+        },
+        {
+            "id": 560,
+            "name": "Equip a Crystal Crown"
+        },
+        {
+            "id": 1809,
+            "name": "Equip a Crystal Tool"
+        },
+        {
+            "id": 1437,
+            "name": "Gauntlet Combat Achievements"
+        },
+        {
+            "id": 1675,
+            "name": "Colosseum Combat Achievements"
+        },
+        {
+            "id": 1684,
+            "name": "Defeat Sol Heredit 10 times"
+        },
+        {
+            "id": 1683,
+            "name": "Defeat Sol Heredit 5 times"
+        },
+        {
+            "id": 1672,
+            "name": "Equip Blessed Dizana's Quiver"
+        },
+        {
+            "id": 1669,
+            "name": "Obtain 58,000 Glory"
+        },
+        {
+            "id": 1008,
+            "name": "Equip a Spectral or Arcane Spirit Shield"
+        },
+        {
+            "id": 1009,
+            "name": "Equip an Elysian Spirit Shield"
+        },
+        {
+            "id": 1019,
+            "name": "Obtain Every Revenant Weapon"
+        }
+    ]
+}
