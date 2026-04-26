@@ -24,11 +24,12 @@ type Tasks struct {
 }
 
 type Task struct {
-	TaskId     int    `json:"id"`
-	TaskName   string `json:"name"`
-	Difficulty string `json:"difficulty"`
-	Area       string `json:"area"`
-	Points     int    `json:"points"`
+	TaskId             int    `json:"id"`
+	TaskName           string `json:"name"`
+	Difficulty         string `json:"difficulty"`
+	Area               string `json:"area"`
+	Points             int    `json:"points"`
+	RewardsDemonicPact bool   `json:"rewardsDemonicPact"`
 }
 
 func main() {
@@ -178,7 +179,7 @@ func printUsersMissingCompletedTasks(username string, uncompleteTasks []int, tas
 
 		task, ok := tasksMap[taskId]
 		if !ok {
-			fmt.Printf("Unknown task %d | Difficulty: N/A | Region: N/A | Points: N/A | Completed: N/A\n", taskId)
+			fmt.Printf("Unknown task %d | Difficulty: N/A | Region: N/A | Points: N/A | Demonic pact: N/A | Completed: N/A\n", taskId)
 			continue
 		}
 
@@ -187,10 +188,18 @@ func printUsersMissingCompletedTasks(username string, uncompleteTasks []int, tas
 			completionRate = "N/A"
 		}
 
-		fmt.Printf("%s | Difficulty: %s | Region: %s | Points: %d | Completed: %s\n", task.TaskName, task.Difficulty, task.Area, task.Points, completionRate)
+		fmt.Printf("%s | Difficulty: %s | Region: %s | Points: %d | Demonic pact: %s | Completed: %s\n", task.TaskName, task.Difficulty, task.Area, task.Points, yesNo(task.RewardsDemonicPact), completionRate)
 	}
 
 	fmt.Println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+}
+
+func yesNo(value bool) string {
+	if value {
+		return "Yes"
+	}
+
+	return "No"
 }
 
 func initTasksList() Tasks {

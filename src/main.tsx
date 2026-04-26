@@ -43,6 +43,7 @@ type Task = {
   difficulty: "Easy" | "Medium" | "Hard" | "Elite" | "Master";
   area: string;
   points: number;
+  rewardsDemonicPact: boolean;
 };
 
 type CompletedResponse = {
@@ -156,6 +157,8 @@ function TaskTable({
   sortDirection: SortDirection;
   onSort: (key: SortKey) => void;
 }) {
+  const pactCount = rows.filter((row) => row.rewardsDemonicPact).length;
+
   return (
     <Card className="min-w-0 overflow-hidden">
       <CardHeader className="border-b">
@@ -168,15 +171,18 @@ function TaskTable({
             <Badge variant="secondary">{completedCount} done</Badge>
             <Badge variant="outline">{rows.length} visible</Badge>
             <Badge variant="outline">{rawCount} matched</Badge>
+            <Badge variant="outline">
+              {pactCount} {pactCount === 1 ? "pact" : "pacts"}
+            </Badge>
           </div>
         </div>
       </CardHeader>
       <CardContent className="p-0">
         <div className="max-h-[68vh] overflow-auto">
-          <Table className="min-w-[760px]">
+          <Table className="min-w-[880px]">
             <TableHeader className="sticky top-0 z-10 bg-card">
               <TableRow>
-                <TableHead className="w-[42%]">Task</TableHead>
+                <TableHead className="w-[38%]">Task</TableHead>
                 <TableHead>
                   <SortButton active={sortKey === "difficulty"} direction={sortDirection} onClick={() => onSort("difficulty")}>
                     Difficulty
@@ -192,6 +198,7 @@ function TaskTable({
                     Points
                   </SortButton>
                 </TableHead>
+                <TableHead className="whitespace-nowrap">Demonic Pact</TableHead>
                 <TableHead className="text-right">
                   <SortButton active={sortKey === "completion"} direction={sortDirection} onClick={() => onSort("completion")}>
                     Completed
@@ -213,12 +220,15 @@ function TaskTable({
                     </span>
                   </TableCell>
                   <TableCell className="text-right tabular-nums">{row.points}</TableCell>
+                  <TableCell>
+                    <DemonicPactBadge rewardsDemonicPact={row.rewardsDemonicPact} />
+                  </TableCell>
                   <TableCell className="text-right tabular-nums">{completionLabel(row.completion)}</TableCell>
                 </TableRow>
               ))}
               {rows.length === 0 ? (
                 <TableRow>
-                  <TableCell colSpan={5} className="h-28 text-center text-muted-foreground">
+                  <TableCell colSpan={6} className="h-28 text-center text-muted-foreground">
                     No tasks match the current region filter.
                   </TableCell>
                 </TableRow>
@@ -270,6 +280,18 @@ function DifficultyBadge({ difficulty }: { difficulty: Task["difficulty"] }) {
   return (
     <Badge variant="outline" className={className}>
       {difficulty}
+    </Badge>
+  );
+}
+
+function DemonicPactBadge({ rewardsDemonicPact }: { rewardsDemonicPact: boolean }) {
+  if (!rewardsDemonicPact) {
+    return <span className="text-sm text-muted-foreground">No</span>;
+  }
+
+  return (
+    <Badge variant="outline" className="border-accent/70 bg-accent/20 text-accent-foreground">
+      Earns pact
     </Badge>
   );
 }
